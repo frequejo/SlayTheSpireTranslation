@@ -68,59 +68,59 @@
     "DESCRIPTION": "Esboce um baralho de cartas inicial personalizado."
   },
   "Brewmaster": {
-    "NAME": "Brewmaster",
-    "DESCRIPTION": "Start with 5 copies of Alchemize, Toy Ornithopter and White Beast Statue."
+    "NAME": "Mestre Boticário",
+    "DESCRIPTION": "Comece com 5 cópias de Alquimize,e a Estátua da Besta Branca."
   },
   "Specialized": {
-    "NAME": "Specialized",
-    "DESCRIPTION": "Start with 5 copies of a single rare card."
+    "NAME": "Especializado",
+    "DESCRIPTION": "Comece com 5 cópias de uma carta rara ."
   },
   "Endless": {
-    "NAME": "Endless",
-    "DESCRIPTION": "Winning will return you to Act 1 with the same deck. But beware, the blight eventually consumes all..."
+    "NAME": "Sem fim",
+    "DESCRIPTION": "Vencer vai fazer voltar ao ato 1 com mesmo Baralho. Mas cuidado, a mácula eventualmente consumirá tudo..."
   },
   "One Hit Wonder": {
-    "NAME": "One Hit Wonder",
-    "DESCRIPTION": "Start the game with 1 max HP."
+    "NAME": "Um acerto K.O.",
+    "DESCRIPTION": "Comece o jogo com 1 PV Máximo."
   },
   "Starter Deck": {
-    "NAME": "Starter Deck",
-    "DESCRIPTION": "Start with Busted Crown and Binary, so enemies no longer drop cards."
+    "NAME": "Deck Inicial",
+    "DESCRIPTION": "Comece com Coroa Destruída e Binário, assim inimigos não vão mais recompensar com cartas."
   },
   "Praise Snecko": {
-    "NAME": "Praise Snecko",
-    "DESCRIPTION": "Replaces your starting relic with Snecko Eye."
+    "NAME": "Adore a Cobragarto",
+    "DESCRIPTION": "Substitua sua relíquia inicial por olho de Cobragarto."
   },
   "Inception": {
     "NAME": "Inception",
-    "DESCRIPTION": "Replaces your starting relic with Unceasing Top."
+    "DESCRIPTION": "Substitua sua relíquia inicial por Topo Incessante."
   },
   "My True Form": {
-    "NAME": "My True Form",
-    "DESCRIPTION": "Start with a copy of Demon Form, Wraith Form and Echo Form."
+    "NAME": "Minha Verdadeira Forma",
+    "DESCRIPTION": "Comece com uma cópia de Forma Demoníaca, Forma de Aparição and Forma de Eco."
   },
   "Blight Chests": {
-    "NAME": "Blight Chests",
-    "DESCRIPTION": "Boss chests contain blights after beating Act 3 on Endless."
+    "NAME": "Baús Maculados",
+    "DESCRIPTION": "Baús de chefes contem máculas depois de derrotar o Ato 3 no modo Sem Fim."
   },
   "Stunted Growth": {
-    "NAME": "Stunted Growth",
-    "DESCRIPTION": "Enemies no longer drop card rewards after beating Act 3 on Endless."
+    "NAME": "Crescimento Atrofiado",
+    "DESCRIPTION": "Inimigos não recompensarão mais cartas depois de vencer o ato 3 no modo Sem Fim."
   },
   "Blue Cards": {
-    "NAME": "Blue Cards",
-    "DESCRIPTION": "Blue cards now appear in rewards and shops."
+    "NAME": "Cartas Azuis",
+    "DESCRIPTION": "Cartas azuis agora aparecem em recompensas e lojas."
   },
   "Red Cards": {
-    "NAME": "Red Cards",
-    "DESCRIPTION": "Red cards now appear in rewards and shops."
+    "NAME": "Cartas Vermelhas",
+    "DESCRIPTION": "Cartas vermelhas agora aparecem em recompensas e lojas."
   },
   "Colorless Cards": {
-    "NAME": "Colorless Cards",
-    "DESCRIPTION": "Colorless cards appear more often."
+    "NAME": "Cartas Incolores",
+    "DESCRIPTION": "Cartas incolores agora aparecem em recompensas e lojas."
   },
   "Green Cards": {
-    "NAME": "Green Cards",
-    "DESCRIPTION": "Green cards now appear in rewards and shops."
+    "NAME": "Cartas Verdes",
+    "DESCRIPTION": "Cartas verdes agora aparecem em recompensas e lojas."
   }
 }
