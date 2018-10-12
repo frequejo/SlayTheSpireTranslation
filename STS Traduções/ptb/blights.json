@@ -1,100 +1,100 @@
 {
   "DeadlyEnemies": {
-    "NAME": "Deadly Enemies",
+    "NAME": "Inimigos Mortais",
     "DESCRIPTION": [
-      "Enemies deal #b",
-      "% more damage."
+      "Inimigos infligem #b",
+      "% mais dano."
     ]
   },
   "ToughEnemies": {
-    "NAME": "Tough Enemies",
+    "NAME": "Inimigos Resistentes",
     "DESCRIPTION": [
-      "Enemies have #b",
-      "% more HP."
+      "Inimigos têm #b",
+      "% mais PV."
     ]
   },
   "TimeMaze": {
-    "NAME": "Tough Enemies",
+    "NAME": "Labirinto do Tempo",
     "DESCRIPTION": [
-      "Enemies have the Time Maze power.",
-      " cards per turn.",
-      "I can only play up to NL #r"
+      "Inimigos têm o Poder Labirinto do Tempo.",
+      " cartas por turno.",
+      "Eu posso jogar apenas até NL #r"
     ]
   },
   "Accursed": {
-    "NAME": "Accursed",
+    "NAME": "Amaldiçoado",
     "DESCRIPTION": [
-      "Upon pickup, obtain #b",
-      " random #yCurses.",
-      "Accursed!"
+      "Ao coletar, obtenha #b",
+      " #yMaldições aleatórias.",
+      "Amaldiçoado!"
     ]
   },
   "TwistingMind": {
-    "NAME": "Twisting Mind",
+    "NAME": "Mente Distorcida",
     "DESCRIPTION": [
-      "Upon pickup, #yTransform #b",
-      " cards.",
-      "Transformation!"
+      "Ao coletar, #yTransforme #b",
+      " cartas.",
+      "Transformação!"
     ]
   },
   "Scatterbrain": {
-    "NAME": "Scatterbrain",
+    "NAME": "Cabeça de vento",
     "DESCRIPTION": [
-      "Upon pickup, obtain #b",
-      " random cards.",
-      "Scatterbrained!"
+      "Ao coletar, obtenha #b",
+      " cartas aleatórias.",
+      "Distraído!"
     ]
   },
   "MimicInfestation": {
-    "NAME": "Mimic Infestation",
+    "NAME": "Infestação mímica",
     "DESCRIPTION": [
-      "Treasure rooms in future acts are replaced by Elites."
+      "Salas do Tesouro em atos futuros são substituídos por Elites."
     ]
   },
   "FullBelly": {
-    "NAME": "Full Belly",
+    "NAME": "Barriga Cheia",
     "DESCRIPTION": [
-      "You can no longer increase your Max HP. All healing is halved."
+      "Voce não pode mais aumentar seu PV máximo. Todas as curas reduzidas à metade."
     ]
   },
   "GrotesqueTrophy": {
-    "NAME": "Grotesque Trophy",
+    "NAME": "Troféu Grotesco",
     "DESCRIPTION": [
-      "Upon pickup, obtain #b",
-      " #rPrides.",
-      "Your Pride is twisted..."
+      "Ao coletar, obtenha #b",
+      " #rOrgulhos.",
+      "Seu Orgulho é distorcido..."
     ]
   },
   "BlightedDurian": {
-    "NAME": "Blighted Durian",
+    "NAME": "Durian murcho",
     "DESCRIPTION": [
-      "Lose #b",
-      "% of your Max HP."
+      "Perca #b",
+      "% do seu PV Máximo."
     ]
   },
   "VoidEssence": {
-    "NAME": "Void Essence",
+    "NAME": "Essência do Vazio",
     "DESCRIPTION": [
-      "Gain 1 less [R] at the start of each turn.",
-      "Gain 1 less [G] at the start of each turn.",
-      "Gain 1 less [B] at the start of each turn.",
-      " less [B] at the start of each turn."
+      "Ganhe 1 a menos [R] no começo de cada turno.",
+      "Ganhe 1 a menos [G] no começo de cada turno.",
+      "Ganhe 1 a menos [B] no começo de cada turno.",
+      " a menos [B] no começo de cada turno."
     ]
   },
   "GraspOfShadows": {
-    "NAME": "Grasp Of Shadows",
+    "NAME": "Agarramento das Sombras",
     "DESCRIPTION": [
-      "Enemies start combat with #b",
-      " #yIntangible."
+      "Inimigos começam o combate com #b",
+      " #yIntangível."
     ]
   },
   "MetallicRebirth": {
-    "NAME": "Metallic Rebirth",
+    "NAME": "Renascimento Metálico",
     "DESCRIPTION": [
-      "Enemies start combat with #b",
-      " #yArtifact, #b",
-      " #yPlated #yArmor, and #b",
-      " #yRegenerate."
+      "Inimigos começam com #b",
+      " #yArtefato, #b",
+      " #yArmadura #yChapeada, and #b",
+      " #yRegeneração."
     ]
   }
 }
