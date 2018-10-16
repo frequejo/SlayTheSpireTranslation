@@ -1,7 +1,7 @@
 {
   "AchievementGrid": {
     "NAMES": [
-      "Nem Ligar",
+      "Dar de ombros",
       "Pureza",
       "Vem Pra Cima",
       "O Pacto",
@@ -30,18 +30,18 @@
       "Oculto",
       "Quem Precisa de Relíquias?",
       "Escalador Ágil",
-      "Ascender 0",
-      "Ascender 10",
+      "Ascenção 0",
+      "Ascenção 10",
       "Minimalista",
       "Ohh Rosquinha!",
-      "Sapphire",
-      "Common Sense",
-      "Focused",
+      "Safira",
+      "Senso Comum",
+      "Focado",
       "Neon",
-      "Energy is Overrated",
-      "My Lucky Day",
-      "The Transient",
-      "Ascend 20"
+      "Energia É Superestimada",
+      "Meu Dia de Sorte",
+      "O Transitório",
+      "Ascenção 20"
     ],
     "TEXT": [
       "Vença uma batalha com 1 PV restante.",
@@ -77,14 +77,14 @@
       "Complete a Ascensão Nível 10.",
       "Conclua o jogo com um baralho de 5 cartas ou menor.",
       "Acabe com Donu com um Comer.",
-      "Beat the game with the Defect.",
-      "Beat the game with a deck of only common cards.",
-      "Have 25 or more Focus during combat.",
-      "Channel 9 Plasma in a single turn.",
-      "Play 10 or more cost 0 cards in a single turn.",
-      "Win a Daily Climb.",
-      "Defeat the Transient before it fades away.",
-      "Complete Ascension Level 20."
+      "Conclua o jogo com o Defeituoso.",
+      "Conclua o jogo com um deck de apenas cartas comuns.",
+      "Tenha 25 ou mais Foco durante um combate.",
+      "Canalize 9 Plasma em um único turno.",
+      "Jogue 10 ou mais cartas de custo 0 um único turno.",
+      "Vença uma Subida Diária.",
+      "Derrote o Transitório antes que ele desapareça.",
+      "Complete Ascensão Nível 20."
     ]
   },
   "CharStat": {
@@ -122,7 +122,7 @@
       "#yConquistas",
       "#rO #rRígido",
       "#gA #gSorrateira",
-      "#bCorvobô"
+      "#bO #Defeituoso"
     ],
     "TEXT": [
       "Voltar"
