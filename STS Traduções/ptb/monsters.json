@@ -72,7 +72,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Pointy",
+    "NAME": "Pontudo",
     "DIALOG": [
       "Beeeaaar!!!!"
     ]
@@ -536,7 +536,7 @@
     "MOVES": [
       "HIPER RAIO"
     ],
-    "NAME": "Autômato de Broze",
+    "NAME": "Autômato de Bronze",
     "DIALOG": [
       ""
     ]
@@ -574,7 +574,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Livro de Estocadas",
+    "NAME": "Livro de Punhaladas",
     "DIALOG": [
       ""
     ]
@@ -633,7 +633,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "O Bucho",
+    "NAME": "O Bocarra",
     "DIALOG": [
       "@RRrrohrrRGHhh!!@"
     ]
@@ -652,7 +652,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Transient",
+    "NAME": "O Transitório",
     "DIALOG": [
       ""
     ]
@@ -661,7 +661,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Dagger",
+    "NAME": "Adaga",
     "DIALOG": [
       ""
     ]
@@ -670,7 +670,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Reptomancer",
+    "NAME": "Reptomante",
     "DIALOG": [
       ""
     ]

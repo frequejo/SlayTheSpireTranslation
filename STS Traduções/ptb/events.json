@@ -256,7 +256,7 @@
       "Ao passar por uma estrutura que você tem certeza de já ter visto você começa a se questionar se você está enloquecendo, ou se é possível que a geografia deste lugar está começando a te afetar. Você precisa mudar algo, e rápido. Isso é o que as vozes dizem de quaquer forma, e por que elas mentiriam?",
       "Algo em você se parte. Somente os verdadeiros loucos poderiam entender um lugar como esse, então você se entrega às vozes tagarelando e continua com uma \"nova\" perspectiva. As coisas parecem fazer muito mais sentido agora.",
       "Conforme você toma um momento para observar cuidadosamente o cenário ondulado ao seu redor, o vestígio de um padrão começa a surgir de dentro da aleatoriedade. Sempre que os barulhos dementes começam a atrapalhar seus pensamentos, você lida com a dor mental e a ignora. NL NL Eventualmente você consegue traçar um caminho adiante, e continuar, agora resistente à nefasta natureza desse lugar estranho.",
-      "You spend what seems like an eternity lost in the maze. Slowly but surely, you are able to retrace your steps, reorient yourself, and make it out of the twisting passages. NL NL You feel #r~drained~ from the experience."
+      "Você passa o que parece ser uma eternidade perdido no labirinto. Lenta, mas certamente, voce é capaz de refazer os seus passos, reorientar-se, e sair das passagens retorcidas. NL NL Voce se sente #r~drenado~ desta experiência."
     ],
     "OPTIONS": [
       "...",
@@ -265,8 +265,8 @@
       "[Focar] #rSeja #rAmaldiçoado #r- #rTorção. #gCure #g",
       "[Sair]",
       " #gPV.",
-      "[Retrace Your Steps] #rLose #r",
-      " #rMax #rHP."
+      "[Refaça seus passos] #rPerca #r",
+      " #rPV #rMáximo."
     ]
   },
   "Big Fish": {
@@ -376,7 +376,7 @@
     "NAME": "Mundo de Gosma",
     "DESCRIPTIONS": [
       "Você cai em uma poça. NL @ELA@ @É@ @FEITA@ @DE@ #g@GOSMA!!@ NL Freneticamente, você se arranha por muitos minutos conforme você sente a gosma começar a queimar. NL Você consegue sentir gosma em seus ouvidos, gosma em seu nariz, gosma em todo lugar. NL NL Saindo de lá, você nota que parte do seu #youro está faltando. Olhando novamente para a poça você vê suas moedas perdidas combinadas com #youro de outros aventureiros infelizes misturadas juntas dentro da poça.",
-      "Sentindo a ardência da gosma conforme o contato prolongado começa a derreter na sua pede, você consegue pescar o #youro.",
+      "Sentindo a ardência da gosma conforme o contato prolongado começa a derreter na sua pele, você consegue pescar o #youro.",
       "Você decide que aquela bagunça não vale a pena."
     ],
     "OPTIONS": [
@@ -558,7 +558,7 @@
       "Um homem com um tapa olho e sorriso malicioso casualmente vem em sua direção. NL \"E aí, estranho. Interessado em um poco de #yB.O.M.B.A.? Ela o fará mais forte do que qualquer treinamento ou benção. Você vai precisar disso se for um daqueles heróis com um desejo de morte. NL O que me diz? Quer ficar #yBOMBADO?\" NL ",
       "~\"Excelente.\"~ NL O homem lhe entrega uma seringa que parece perigosa cheia de um líquido brilhante antes de se esconder em um beco escuro.",
       "\"Não importa, sempre haverá um próximo...\" NL O homem vagueia para longe.",
-      "~\"Marvelous.\"~ NL You quaff the mysterious substance. Immediately, you are invigorated and feel your muscle fibers @twitch.@"
+      "~\"Maravilhoso.\"~ NL Voce ingere a substância misteriosa. Imediatamente, voce se sente revigorado e sente suas fibras musculares @contraírem.@"
     ],
     "OPTIONS": [
       "[Pagar] #y",
@@ -588,7 +588,7 @@
     ]
   },
   "Knowing Skull": {
-    "NAME": "Crânio Conhecedor",
+    "NAME": "Crânio Sábio",
     "DESCRIPTIONS": [
       "Você se encontra em uma velha câmara decorada. No centro da sala, um grande crânio repousa no topo de um pedestral ornamentado. Conforme você se aproxima, o crânio #g@explode@ #g@em@ #g@chamas@ e se vira para te encarar.",
       "\"O QUE VOCÊ PROCURA? E O QUE VOCÊ OFERECE?\" NL Em sincronia com suas últimas palavras, a porta atrás de você se @fecha@ @violentamente.@",
@@ -788,139 +788,139 @@
     ]
   },
   "MindBloom": {
-    "NAME": "Mind Bloom",
+    "NAME": "Florescer da Mente",
     "DESCRIPTIONS": [
-      "You begin to daydream while ascending higher into the Spire. After some time, you start to notice your thoughts pouring out of your head and manifesting all around you.",
-      "MIXED",
-      "MIXED"
+      "Enquanto caminhava e atrevessava o caos do Pináculo, seus pensamentos de repente começam a parecer muito... #p~reais...~ NL NL A imagem de #rmonstros e #yriquezas começam a se manifestar na realidade. NL A sensação está rapidamente se esvaindo. O que você faz?",
+      "Pode ser realmente tão fácil?",
+      "Tudo faz sentido agora. NL A falta de memória, a ascensão, o #yAncião. NL NL Isto é como sempre foi. NL Esta é a forma que sempre será. NL Tudo será esquecido em breve..."
     ],
     "OPTIONS": [
-      "[A Foe From Your Past] #rWARNING: #rFight #ra #rBoss! #gGain #g2 #gRelics.",
-      "[Mixed Feelings] #rDownside. #gMinor #gUpside.",
-      "[Leave]",
-      "[I am Awake] #gUpgrade #gall #gCards. #rYou #rcan #rno #rlonger #rheal.",
-      "[Leave]"
+      "[Eu sou Guerra] #rLute #rcontra #rum #rChefe #rdo #rAto #r1. #gObtenha #guma #gRelíquia #gRara.",
+      "[Eu sou Riqueza] #gGanhe #g999 #gOuro. #rAlmadiçoado #r- #r2 #rNormalidade.",
+      "[Eu sou Saúde] #gCure #gtodos #gos #gseus #gPV. #rAlmadiçoado #r- #rDúvida.",
+      "[Eu estou Acordado] #gAprimore #gtodas #gas #gCartas. #rVocê #rnão #rpode #rmais #rcurar.",
+      "[Sair]"
     ]
   },
   "Nest": {
     "NAME": "The Nest",
     "DESCRIPTIONS": [
-      "Flocks of cultists seem to be gathering around a central location. As you approach they are surprisingly docile, not making any movements to attack. You can see new members being initiated into their Cult through some kind of ritual.",
-      "You decide to get in line and see if they will allow your participation in the ritual. NL NL You are swept up into the ceremony, as the masked leader slashes your arm with a dagger, you feel some of your power seep into the blade. NL NL As you finish your induction into the cult, the personalized dagger is handed to you as a status of your new membership.",
-      "Taking advantage of the opportunity, you find several valuables scattered throughout the building before making your escape.",
-      "",
+      "Uma longa fila de #b~figuras~ #b~encapuzadas~ podem ser vistas entrando NL em uma #psingela #pcatedral.",
+      "Naturalmente, voce se junta à fila e é rapidamente cercado por #rCultistas! NL Eles ignoram você confome eles alegremente @entoam@ e ~balançam~ suas armas. NL NL #r@\"MORTE!!@ #r@MORTE@ #r@MORTE!!\"@ NL #b~\"CAW~ #b~CAW~ #b~CAAAAAWWW!\"~ NL #r@\"MORTE!@ #r@MORTE@ #r@MORTE!!\"@ NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL Você percebe uma #yCaixa #yde #yDoação...",
+      "Você decide permanecer na fila (por medo) para ver o que acontece. NL NL Eventualmente, você está frente a frente com o líder. Um cultista bem vestido lhe entrega uma #yAdaga #yOrnamentada. Como os outros antes de você, você corta o seu antebraço e deixa o sangue escorrer até uma tigela deformada. NL NL Os cultistas @entoam@ e @urram@ por você! NL NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL Você urra também. Por que não?",
+      "Eles nem perceberam.",
       "",
       ""
     ],
     "OPTIONS": [
-      "[Join The Cult] #gObtain #gRitual #gDagger. #rDowngrade #r",
-      ".",
-      "[Smash and Grab] #gObtain #g150 #gGold.",
-      "[Locked] Requires: Upgraded Card.",
-      "[Leave]",
-      "[Continue]"
+      "[Fique na fila] #gObtenha Adaga Ritualística. #rPerca #r",
+      " #rPV.",
+      "[Esmague e Agarre] #gObtenha #g",
+	  " #gOuro.",
+      "[Sair]",
+      "[Continuar]"
     ]
   },
   "FaceTrader": {
-    "NAME": "Face Trader",
+    "NAME": "Troca Rostos",
     "DESCRIPTIONS": [
-      "YOU LOOK LIKE SOMEONE WHO COULD USE A NEW FACE!",
-      "ENJOY YOUR NEW FACE!",
-      "~\"Compensation?~ ~Compensation.\"~ NL Mechanically, he cranes out a neat stack of #ygold and places it into your pouch. NL NL ~\"What~ ~a~ ~nice~ ~face.~ ~Nice~ ~face.\"~ NL While he touches your face, you begin to feel your life drain out of it! NL During this, his mask falls off and shatters. Screaming, he quickly covers his face with all six arms dropping even more masks! Amidst all the screaming and shattering, you escape. NL NL His face was completely blank.",
-      "~\"For~ ~me?~ @FOR@ @ME?@ ~Oh~ ~yes..~ ~Yes.~ ~Yes..~ ~mmm...\"~ NL NL You see one of his arms flicker, and your face is in its hand! Your face has been swapped. NL NL ~\"Nice~ ~face.~ ~Nice~ ~face.\"~",
-      "~\"Stop.~ ~Stop.~ ~Stop.~ ~Stop.~ ~stop.\"~ NL NL This was probably the right call."
+      "VOCÊ PARECE ALGUÉM QUE PODERIA PRECISAR DE UM NOVO ROSTO!",
+      "APROVEITE O ROSTO NOVO!",
+      "~\"Compensação?~ ~Compensação.\"~ NL Mecanicamente, he ergue uma pilha de #youro e coloca na sua bolsa. NL NL ~\"Mas~ ~que~ ~belo~ ~rosto.~ ~Belo~ ~rosto.\"~ NL Enquanto ele toca sua face, você começa a sentir sua vida ser drenada! NL Durante isto, a máscara dele cai e se estilhaça. Gritando, ele rapidamente cobre seu rosto com seus 6 braços derrubando ainda mais máscaras! Em meio a todos os gritos e estilhaços, você foge. NL NL Seu rosto era completamente branco.",
+      "~\"Para~ ~mim?~ @PARA@ @MIM?@ ~Oh~ ~sim..~ ~Sim.~ ~Sim..~ ~mmm...\"~ NL NL Você ve um de seus braços se mover-se, e o seu rosto está naquela mão! Seu rosto foi trocado. NL NL ~\"Belo~ ~rosto.~ ~Belo~ ~rosto.\"~",
+      "~\"Pare.~ ~Pare.~ ~Pare.~ ~Pare.~ ~Pare.\"~ NL NL Isso é provavelmente o certo."
     ],
     "OPTIONS": [
-      "[N'Loth's Mask] #gWhenever #gyou #gplay #ga #gRare #gcard, #ggain #g3 #gblock.",
-      "[Ssserpent Head] #gWhenever #gyou #gbegin #gan #gEvent, #ggain #g50 #gGold.",
-      "[Face Of Cleric] #gRaise #gyour #gMax #gHP #gby #g1 #gafter #geach #gcombat.",
-      "[Leave]",
-      "[Continue]",
-      " #rHP, #ggain #g"
+      "[Toque] #rPerca #r",
+      " #gOuro.",
+      "[Troque] #g50%: #gRoso #gBom. #r50%: #rRosto #rRuim.",
+      "[Sair]",
+	  "[Continuar]",
+	  " #rHP, #gganhe #g"
     ]
   },
   "NoteForYourself": {
-    "NAME": "A Note For Yourself",
+    "NAME": "Uma Nota para si mesmo",
     "DESCRIPTIONS": [
-      "You spot a loose brick within a pillar that catches your eye.",
-      "You find a folded note and a #ycard inside. It reads, NL \"The Heart awaits.\" NL NL This is your handwriting.",
-      "Choose a Card to Store.",
-      "What is going on?"
+      "Você vê um tijolo solto em um pilar que chama a sua atenção.",
+      "Você encontra uma nota dobrada e uma #ycarta dentro. Ela diz, NL \"O Coração espera.\" NL NL Esta é a sua caligrafia.",
+      "Escolha uma carta para coletar.",
+      "O que está acontecendo?"
     ],
     "OPTIONS": [
-      "[Continue]",
-      "[Take and Give] #gReceive ",
-      " #gand #gStore #ga #gCard.",
-      "[Ignore]",
-      "[Leave]"
+      "[Continuar]",
+      "[Dar e Receber] #gReceba ",
+      " #ge #gColete #guma #gCarta.",
+      "[Ignorar]",
+      "[Sair]"
     ]
   },
   "WeMeetAgain": {
-    "NAME": "We Meet Again!",
+    "NAME": "Nos Encontramos Novamente!",
     "DESCRIPTIONS": [
-      "\"We meet again!\" NL A cheery disheveled fellow approaches you gleefully. You do know this man. NL NL \"It's me, #yRanwid! Have any goods for me today? The usual? A fella like me can't make it alone, you know?\" NL You eye him suspiciously and consider your options...",
-      "\"Exquisite! Was feeling parched.\" NL #b~Glup~ #b~glup~ #b~glup~ NL NL He downs the potion in one go and lets out a satisfied @burp.@",
-      "\"Magnificent! This will be quite handy if I run into those #rmask #rwearing #rhoodlums again.\"",
-      "\"Exemplary! I shall study this further in my chambers.\"",
-      "\" @Aaaaagghh!!@ What a jerk you are sometimes! NL He ran away.",
-      "  NL NL He rummages around his various pockets... NL \"Here, look what I've got for you today! Take it take it!\""
+      "\"Nos encontramos novamente!\" NL Um sujeito animado desgrenhado se aproxima de você alegremente. Você conhece este homem. NL NL \"Sou eu, #yRanwid! Algo de bom para mim hoje? O de sempre? Um cara como eu não pode fazer isso sozinho, sabe?\" NL Você o observa suspeito e considera suas opções...",
+      "\"Excelente! Me sentia ressecado.\" NL #b~Glup~ #b~glup~ #b~glup~ NL NL Ele bebe a poção de uma vez and e deixa escapar um @arroto@ satisfeito.",
+      "\"Magnífico! Isto será útil se eu encontrar aqueles #rarruaceiros #rde #rmáscara #rvermelha de novo.\"",
+      "\"Examplar! Estudarei isto a fundo em meus aposentos.\"",
+      "\" @Aaaaagghh!!@ Que idiota você é as vezes! NL Ele fugiu.",
+      "  NL NL Ele vasculha seus vários bolsos... NL \"Aqui, veja o que eu conseguir para você hoje! Pegue, pegue!\""
     ],
     "OPTIONS": [
-      "[Give Potion] #rLose ",
-      "[Locked] Requires: Potion",
-      "[Give Gold] #rLose #r",
-      "[Locked] Requires: At least 50 Gold.",
-      "[Give Card] #rLose ",
-      "[Locked] Requires: Card",
-      ". #gReceive #ga #gRelic",
-      "[Attack]",
-      "[Leave]",
-      " #rGold"
+      "[Dar Poção] #rPerca ",
+      "[Travado] Requer: Poção",
+      "[Dar Ouro] #rPerca #r",
+      "[Travado] Requer: Pelo menos 50 Ouro.",
+      "[Dar Carta] #rPerca ",
+      "[Travado] Requer: Carta",
+      ". #gReceba #guma #gRelíquia",
+      "[Atacar]",
+      "[Sair]",
+      " #rOuro"
     ]
   },
   "Designer": {
     "NAME": "Designer In-Spire",
     "DESCRIPTIONS": [
-      "You discover a #g~colorful~ shop with the banner \"IN-SPIRE\" and walk in to see what's inside. NL \"No, no way. Nope. Can't let you in!\" NL NL A man with ridiculous clothing appears at the entrance to bar you.",
-      "\"This will not do, no no. What is this style? @Disgusting!@ Are you #rbleeeeding? #p~Groooss.~ @Business??@ You a customer? Fine. ~Whaaatever.\"~ NL He lets out an exaggerated sigh and points at a list of services. NL NL The services seem fine, but you would rather punch this smug man in his smug face.",
-      "\"Okay, bye bye now.\" NL NL ...should've punched him.",
-      "You punch him so hard your fist hurts. NL \"My @FACE!!@ Now I'll have to-\" NL NL He fainted. Who's #p~groooss~ and #rbleeeeding now?"
+      "Você descobre um #g~colorido~ mercado com o cartaz \"IN-SPIRE\" e adentra para ver o que tem dentro. NL \"Não, de jeito nenhum. Nope. Não posso deixá-lo entrar!\" NL NL Um homem com roupas ridículas aparece na entrada para barrá-lo.",
+      "\"Isto não servirá, não não. O que é esse estilo? @Nojento!@ Você está #rsangraaaando? #p~Que nooojo.~ @Negócios??@ Você é um comprador? Certo. ~Taaanto faz.\"~ NL Ele solta um suspiro exagerado e aponta para a lista de serviços. NL NL Os serviços parecem bons, mas você preferiria socar esse homem presunçoso naquele rosto presunçoso.",
+      "\"Okay, tchau tchau agora.\" NL NL ...deveria tê-lo socado.",
+      "Você o soca tão forte que seu punho dói. NL \"Meu @ROSTO!!@ Agora eu terei que -\" NL NL Ele desmaia. Quem é #p~nojento~ e está #rsangraaaando agora?"
     ],
     "OPTIONS": [
-      "[Continue]",
-      "[Adjustments] #rLose #r",
-      "[Clean Up] #rLose #r",
-      "[Full Service] #rLose #r",
-      "[Punch] #rLose #r",
-      " #rHP.",
-      " #rGold. ",
-      "#gUpgrade #g",
-      " #grandom #gcards.",
-      "#gUpgrade #ga #gcard.",
-      "#gRemove #ga #gcard.",
-      "#gTransform #g",
-      " #gcards.",
-      "#gRemove #ga #gcard #gand #gupgrade #ga #grandom #gcard.",
-      "[Leave]",
-      "Choose a Card to Upgrade",
-      "Choose 2 Cards to Transform",
-      "Choose a Card to Remove"
+      "[Continuar]",
+      "[Ajustes] #rPerca #r",
+      "[Limpar] #rPerca #r",
+      "[Serviço Completo] #rPerca #r",
+      "[Soque] #rPerca #r",
+      " #rPV.",
+      " #rOuro. ",
+      "#gAprimorar #g",
+      " #gcartas #galeatórias.",
+      "#gAprimore #guma #gcarta.",
+      "#gRemovar #guma #gcarta.",
+      "#gTransforme #g",
+      " #gcarta.",
+      "#gRemova #guma #gcarta #ge #gaprimore #guma #gcarta #galeatória.",
+      "[Sair]",
+      "Escolha uma Carta para Aprimorar",
+      "Escolha 2 cartas para Transformar",
+      "Escolha uma carta para remover"
     ]
   },
   "Colosseum": {
-    "NAME": "The Colosseum",
+    "NAME": "O Coliseu",
     "DESCRIPTIONS": [
-      "@Thwack!!!@ NL .. NL ...... NL ... NL ~You~ ~were~ ~knocked~ ~unconscious...~",
-      "~Groggy~ and with a @throbbing@ head, you awaken to find yourself thrown in the center of a massive stadium with an overflowing audience of #bSlavers, #pCultists, and other denizens of the City! NL ",
-      " NL An armored giant with a #ygolden #ycrown bellows at you from atop, NL @\"WE@ @NOW@ @BEGIN@ @THE@ @",
-      "TH@ @COMBAT!!!!\"@ NL A gate on the opposite side opens...",
-      "@\"WELL@ @DONE,@ @WEAKLING!\"@ NL The giant mock claps whilst he riles up the crowd with exaggerated gestures. NL #y~Gold~ ~and~ #y~confetti~ ~shower~ ~you!~ NL @\"TIME@ @FOR@ @THE@ @REAL@ @CHALLENGE!!\"@ NL NL The last battle left a small opening in the Colosseum's wall, you can easily escape through there while everyone is distracted. NL Do you stay and fight?"
+      "@Thwack!!!@ NL .. NL ...... NL ... NL ~Você~ ~foi~ ~nocauteado~...~",
+      "~Desorientado~ e com uma cabeça @latejando@, você acorda para se encontrar jogado no centro de um estádio gigante com um público transbordante de #bEscravistas, #pCultistas, e outros habitantes da Cidade! NL ",
+      " NL Um gigante blindado com uma #ycoroa #ydourada grita para você do alto, NL @\"NÓS@ @AGORA@ @COMEÇAREMOS@ @O@ @",
+      "@ @COMBATE!!!!\"@ NL Um portão no lado oposto se abre...",
+      "@\"MUITO@ @BEM,@ @FRACOTE!\"@ NL O gigante O gigante bate palmas jocosamente enquanto ele levanta a multidão com gestos exagerados. NL #y~Ouro~ ~e~ #y~confete~ ~chovem~ ~sobre~ ~você!~ NL @\"HORA@ @PARA@ @O@ @VERDADEIRO@ @DESAFIO!!\"@ NL NL A última batalha deixou uma pequena abertura na parede do Coliseu, você pode facilmente escapar por lá enquanto todos estão distraídos. NL Você fica e luta?"
     ],
     "OPTIONS": [
-      "[Continue]",
-      "[Fight]",
-      "[COWARDICE] Escape.",
-      "[VICTORY] A powerful fight with many rewards."
+      "[Continuar]",
+      "[Lutar]",
+      "[COVARDICE] Escapar.",
+      "[VITÓRIA] Um luta poderosa com muitas recompensas."
     ]
   }
 }
