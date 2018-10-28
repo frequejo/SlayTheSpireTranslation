@@ -27,7 +27,8 @@
     },
     "ETHEREAL": {
       "NAMES": [
-        "etérea"
+        "etérea",
+				"etéreo"
       ],
       "DESCRIPTION": "Se esta carta estiver em sua mão no fim do turno, ela será exaurida. Cartas exauridas são removidas do seu baralho até o fim do combate."
     },
@@ -41,7 +42,8 @@
     },
     "INNATE": {
       "NAMES": [
-        "inata"
+        "inata",
+				"inato"
       ],
       "DESCRIPTION": "Comece cada combate com esta carta em sua mão."
     },
@@ -186,76 +188,76 @@
     ],
     "VOID": {
       "NAMES": [
-        "void",
-        "voids"
+        "vácuo",
+        "vácuos"
       ],
-      "DESCRIPTION": "Voids are unplayable status cards that consume energy when drawn."
+      "DESCRIPTION": "Vácuos são cartas de status injogáveis que consomoem energia quando compradas."
     },
     "FOCUS": {
       "NAMES": [
-        "focus"
+        "foco"
       ],
-      "DESCRIPTION": "Focus increases the effectiveness of #yChanneled Orbs."
+      "DESCRIPTION": "Foco aumenta a eficiência de Orbes #yCanalizados."
     },
     "EVOKE": {
       "NAMES": [
-        "evoke",
-        "evoked"
+        "evocar",
+        "evocado"
       ],
-      "DESCRIPTION": "Consume your rightmost Orb and use its Evoke effect."
+      "DESCRIPTION": "Consuma o seu Orbe mais a direita e use seu efeito de Evocação."
     },
     "PLASMA": {
       "NAMES": [
         "plasma",
         "plasma+"
       ],
-      "DESCRIPTION": "Orb: Gains Energy."
+      "DESCRIPTION": "Orbe: Ganhe Energia."
     },
     "CHANNEL": {
       "NAMES": [
-        "channel",
-        "channeled"
+        "canalizar",
+        "canalizado"
       ],
-      "DESCRIPTION": "Channeling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically #yEvoked to make room."
+      "DESCRIPTION": "Canalizar um Orbe coloca-o em seu primeiro slot vazio. Se voce não tem slots vazios, o seu primeiro Orbe é automaticamente #yEvocado para abrir espaço."
     },
     "DARK": {
       "NAMES": [
-        "dark",
-        "dark+"
+        "Trevas",
+        "Trevas+"
       ],
-      "DESCRIPTION": "Orb: Increases damage every turn. When #yEvoked, deals damage to the enemy with the least HP."
+      "DESCRIPTION": "Orbe: Aumenta o dano a cada turno. Quando #yEvocado, cause dano ao inimigo com menos PV."
     },
     "OPENER": {
       "NAMES": [
-        "opener"
+        "Abertura"
       ],
-      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
+      "DESCRIPTION": "Cartas de Abertura só podem ser jogadas como a primeira carta em cada turno."
     },
     "LIGHTNING": {
       "NAMES": [
-        "lightning",
-        "lightning+"
+        "Relâmpago",
+        "Relâmpago+"
       ],
-      "DESCRIPTION": "Orb: Deals damage to random enemies."
+      "DESCRIPTION": "Orbe: Cause dano a inimigos aleatórios."
     },
     "FROST": {
       "NAMES": [
-        "frost",
-        "frost+"
+        "Gelo",
+        "Gelo+"
       ],
-      "DESCRIPTION": "Orb: Gains #yBlock."
+      "DESCRIPTION": "Orbe: Ganhe #yProteção."
     },
     "THORNS": {
       "NAMES": [
-        "thorns"
+        "Espinhos"
       ],
-      "DESCRIPTION": "When receiving #yAttack damage, deals damage back."
+      "DESCRIPTION": "Quando receber dano de #yAtaque, cause dano de volta."
     },
     "LOCK_ON": {
       "NAMES": [
-        "lock-on"
+        "Na Mira"
       ],
-      "DESCRIPTION": "Lock-On targets receive #b50% more damage from Orbs."
+      "DESCRIPTION": "Alvos com Certeiro recebem #b50% de dano adicional de Orbes."
     }
   }
 }
