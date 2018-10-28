@@ -342,9 +342,9 @@
         "NAME": "Grilhões Sombrios"
     },
     "Darkness": {
-        "DESCRIPTION": "Canalize !M! Orbe Sombrio.",
+        "DESCRIPTION": "Canalize !M! Orbe de Trevas.",
         "NAME": "Darkness",
-        "UPGRADE_DESCRIPTION": "Canalize !M! Orbe Sombrio. NL Ative a passiva de TODOS os Orbes Sombrios."
+        "UPGRADE_DESCRIPTION": "Canalize !M! Orbe de Trevas. NL Ative a passiva de TODOS os Orbes de Trevas."
     },
     "Dash": {
         "DESCRIPTION": "Ganhe !B! de Proteção. NL Cause !D! de dano.",
@@ -413,7 +413,7 @@
         "NAME": "Esquivar e Rolar"
     },
     "Doom and Gloom": {
-        "DESCRIPTION": "Cause !D! de dano a TODOS os inimigos. NL Canalize !M! Orbe Sombrio.",
+        "DESCRIPTION": "Cause !D! de dano a TODOS os inimigos. NL Canalize !M! Orbe de Trevas.",
         "NAME": "Ruína e Melancolia"
     },
     "Doppelganger": {
@@ -756,8 +756,8 @@
         "UPGRADE_DESCRIPTION": "Dobre sua Força."
     },
     "Lockon": {
-        "DESCRIPTION": "Cause !D! de dano. NL Aplique !M! Lock-On.",
-        "NAME": "Certeiro"
+        "DESCRIPTION": "Cause !D! de dano. NL Aplique !M! Na Mira.",
+        "NAME": "Na Mira"
     },
     "Loop": {
         "DESCRIPTION": "No começo do seu turno, use a passiva do seu próximo Orbe.",
@@ -965,9 +965,9 @@
         "NAME": "Raiva"
     },
     "Rainbow": {
-        "DESCRIPTION": "Canalize 1 Relâmpago, 1 Gelo, e 1 Sombrio. NL Exaurir.",
+        "DESCRIPTION": "Canalize 1 Orbe de Relâmpago, 1 de Gelo, e 1 de Trevas. NL Exaurir.",
         "NAME": "Arco-Íris",
-        "UPGRADE_DESCRIPTION": "Canalize 1 Relâmpago, 1 Gelo, e 1 Sombrio."
+        "UPGRADE_DESCRIPTION": "Canalize 1 Orbe de Relâmpago, 1 de Gelo, e 1 de Trevas."
     },
     "Rampage": {
         "DESCRIPTION": "Cause !D! de dano. NL Toda vez que esta carta é jogada, aumente seu dano em !M! neste combate.",

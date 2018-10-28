@@ -6,11 +6,24 @@
       " de #yArtefato."
     ]
   },
+  "AttackPotion": {
+    "NAME": "Poção de Ataque",
+    "DESCRIPTIONS": [
+      "Adicione um Ataque aleatório à sua mão, ele custa #b0."
+    ]
+  },
   "Block Potion": {
     "NAME": "Poção de Proteção",
     "DESCRIPTIONS": [
       "Ganhe #b",
       " de #yProteção."
+    ]
+  },
+  "BloodPotion": {
+    "NAME": "Poção de Sangue",
+    "DESCRIPTIONS": [
+      "Cure #b",
+      "% do seu PV Máximo."
     ]
   },
   "Dexterity Potion": {
@@ -25,7 +38,7 @@
     "DESCRIPTIONS": [
       "",
       "",
-      "#yExaure todos as #yCondições e #yMaldições de sua mão.",
+      "#yExaure todas as #yCondições e #yMaldições de sua mão.",
       "",
       "Não teve efeito..."
     ]
@@ -37,6 +50,19 @@
       " de Energia."
     ]
   },
+  "EntropicBrew": {
+    "NAME": "Bebida Entrópica",
+    "DESCRIPTIONS": [
+      "Preencha os seus slots de poção vazios com poções aleatórias."
+    ]
+  },
+  "EssenceOfSteel": {
+    "NAME": "Essência de Aço",
+    "DESCRIPTIONS": [
+      "Ganhe #b",
+      " #yArmadura #yChapeada."
+    ]
+  },
   "Explosive Potion": {
     "NAME": "Poção de Explosão",
     "DESCRIPTIONS": [
@@ -44,11 +70,51 @@
       " de dano a TODOS os inimigos."
     ]
   },
+  "FairyPotion": {
+    "NAME": "Fada na Garrafa",
+    "DESCRIPTIONS": [
+      "Quando você morreria, cure #b10% do seu PV Máximoe descarte esta poção."
+    ]
+  },
+  "FearPotion": {
+    "NAME": "Poção de Medo",
+    "DESCRIPTIONS": [
+      "Aplique #b",
+      " #yVulnerável."
+    ]
+  },
   "Fire Potion": {
     "NAME": "Poção de Fogo",
     "DESCRIPTIONS": [
-      "Dê #b",
+      "Cause #b",
       " de dano."
+    ]
+  },
+  "FocusPotion": {
+    "NAME": "Poção de Foco",
+    "DESCRIPTIONS": [
+      "Ganhe #b",
+      " #yFoco"
+    ]
+  },
+  "Fruit Juice": {
+    "NAME": "Suco de Fruta",
+    "DESCRIPTIONS": [
+      "Ganhe #b",
+      " PV Máximo."
+    ]
+  },
+  "GamblersBrew": {
+    "NAME": "Bebida do Apostador",
+    "DESCRIPTIONS": [
+      "Descarte qualquer número de cartas e compre a mesma quantia."
+    ]
+  },
+  "GhostInAJar": {
+    "NAME": "Fantasma na Jarra",
+    "DESCRIPTIONS": [
+      "Ganhe #b",
+      " #yIntangível"
     ]
   },
   "Health Potion": {
@@ -56,6 +122,13 @@
     "DESCRIPTIONS": [
       "Cure #b",
       " PV."
+    ]
+  },
+  "LiquidBronze": {
+    "NAME": "Bronze Líquido",
+    "DESCRIPTIONS": [
+      "Ganhe #b",
+      " #yEspinhos."
     ]
   },
   "Poison Potion": {
@@ -72,12 +145,53 @@
       "Espaço de Poções"
     ]
   },
+  "PowerPotion": {
+    "NAME": "Poção de Poder",
+    "DESCRIPTIONS": [
+      "Adicione um Poder aleatório à sua mão, ela custa #b0."
+    ]
+  },
   "Regen Potion": {
     "NAME": "Poção de Regeneração",
     "DESCRIPTIONS": [
-      "Cure #b",
-      " #yPV no fim de cada turno por #b",
-      " turnos."
+      "Ganhe #b",
+      " #yRegenerar."
+    ]
+  },
+  "SkillPotion": {
+    "NAME": "Poção de Técnica",
+    "DESCRIPTIONS": [
+      "Adicione uma Técnica aleatória à sua mão, ela custa #b0."
+    ]
+  },
+  "SmokeBomb": {
+    "NAME": "Bomba de Fumaça",
+    "DESCRIPTIONS": [
+      "Escape de um combate que não seja de Chefe. Não receberá recompensas."
+    ]
+  },
+  "SneckoOil": {
+    "NAME": "Óleo de Serpentixa",
+    "DESCRIPTIONS": [
+      "Compre #b",
+      "cartas. Fique #yConfuso.",
+      "carta."
+    ]
+  },
+  "SpeedPotion": {
+    "NAME": "Poção de Velocidade",
+    "DESCRIPTIONS": [
+      "Ganhe #b",
+      " Destreza. No fim do seu turno, perca #b",
+      " Destreza."
+    ]
+  },
+  "SteroidPotion": {
+    "NAME": "Poção de Esteróides",
+    "DESCRIPTIONS": [
+      "Ganhe #b",
+      " Força. No fim do seu turno, perca #b",
+      " Força."
     ]
   },
   "Strength Potion": {
@@ -100,121 +214,6 @@
     "DESCRIPTIONS": [
       "Aplique #b",
       " de #yFraqueza."
-    ]
-  },
-  "Fruit Juice": {
-    "NAME": "Fruit Juice",
-    "DESCRIPTIONS": [
-      "Gain #b",
-      " Max HP."
-    ]
-  },
-  "FearPotion": {
-    "NAME": "Fear Potion",
-    "DESCRIPTIONS": [
-      "Apply #b",
-      " #yVulnerable."
-    ]
-  },
-  "SkillPotion": {
-    "NAME": "Skill Potion",
-    "DESCRIPTIONS": [
-      "Add a random Skill card to your hand, it costs #b0."
-    ]
-  },
-  "AttackPotion": {
-    "NAME": "Attack Potion",
-    "DESCRIPTIONS": [
-      "Add a random Attack card to your hand, it costs #b0."
-    ]
-  },
-  "PowerPotion": {
-    "NAME": "Potion Potion",
-    "DESCRIPTIONS": [
-      "Add a random Power card to your hand, it costs #b0."
-    ]
-  },
-  "SteroidPotion": {
-    "NAME": "Steroid  Potion",
-    "DESCRIPTIONS": [
-      "Gain #b",
-      " Strength. At the end of your turn, lose #b",
-      " Strength."
-    ]
-  },
-  "SpeedPotion": {
-    "NAME": "Speed  Potion",
-    "DESCRIPTIONS": [
-      "Gain #b",
-      " Dexterity. At the end of your turn, lose #b",
-      " Dexterity."
-    ]
-  },
-  "GhostInAJar": {
-    "NAME": "Ghost In A Jar",
-    "DESCRIPTIONS": [
-      "Gain #b",
-      " #yIntangible"
-    ]
-  },
-  "FocusPotion": {
-    "NAME": "Focus Potion",
-    "DESCRIPTIONS": [
-      "Gain #b",
-      " #yFocus"
-    ]
-  },
-  "SneckoOil": {
-    "NAME": "Snecko Oil",
-    "DESCRIPTIONS": [
-      "Draw #b",
-      "cards. Become #yConfused.",
-      "card."
-    ]
-  },
-  "LiquidBronze": {
-    "NAME": "Liquid Bronze",
-    "DESCRIPTIONS": [
-      "Gain #b",
-      " #yThorns."
-    ]
-  },
-  "GamblersBrew": {
-    "NAME": "Gambler's Brew",
-    "DESCRIPTIONS": [
-      "Discard any number of cards then draw that many."
-    ]
-  },
-  "EssenceOfSteel": {
-    "NAME": "Essence Of Steel",
-    "DESCRIPTIONS": [
-      "Gain #b",
-      " #yPlated #yArmor."
-    ]
-  },
-  "BloodPotion": {
-    "NAME": "Blood Potion",
-    "DESCRIPTIONS": [
-      "Heal for #b",
-      "% of your Max HP."
-    ]
-  },
-  "FairyPotion": {
-    "NAME": "Fairy Potion",
-    "DESCRIPTIONS": [
-      "When you would die, heal to #b10% of your Max HP instead and discard this potion."
-    ]
-  },
-  "SmokeBomb": {
-    "NAME": "Smoke Bomb",
-    "DESCRIPTIONS": [
-      "Escape from a non-boss combat. Receive no rewards."
-    ]
-  },
-  "EntropicBrew": {
-    "NAME": "Entropic Brew",
-    "DESCRIPTIONS": [
-      "Fill all your empty potion slots with random potions."
     ]
   }
 }
