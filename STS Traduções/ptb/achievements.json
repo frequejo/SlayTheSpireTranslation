@@ -41,7 +41,11 @@
       "Energia É Superestimada",
       "Meu Dia de Sorte",
       "O Transitório",
-      "Ascenção 20"
+      "Ascenção 20",
+      "Rubi+",
+      "Esmeralda+",
+      "Safira+",
+      "The End?"
     ],
     "TEXT": [
       "Vença uma batalha com 1 PV restante.",
@@ -84,7 +88,11 @@
       "Jogue 10 ou mais cartas de custo 0 um único turno.",
       "Vença uma Subida Diária.",
       "Derrote o Transitório antes que ele desapareça.",
-      "Complete Ascensão Nível 20."
+      "Complete Ascensão Nível 20.",
+      "Complete o Final com o Rígido.",
+      "Complete o Final com a Sorrateira.",
+      "Complete o Final com o Defeituoso.",
+      "Complete o Final com o Rígido, Sorrateira e Defeituoso."
     ]
   },
   "CharStat": {
@@ -96,7 +104,7 @@
       "Total de Andares Escalados: #y",
       "Total de Chefes Mortos: #y",
       "Total de Inimigos Mortos: #y",
-      "Total de Cristais Alimentados: #y",
+      "",
       "Cartas Descobertas: #y",
       "Cartas Desbloqueadas: #y",
       "Relíquias Descobertas: #y",

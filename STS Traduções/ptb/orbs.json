@@ -1,7 +1,7 @@
 {
   "Dark": {
     "DESCRIPTION": [
-      "#yPassiva: No fim do seu turno, aumente o dano desta Orbe por #b",
+      "#yPassiva: No fim do seu turno, aumente o dano desta Orbe em #b",
       ". NL #yEvocar: Cause #b",
       " de dano ao inimigo com menos PV."
     ],

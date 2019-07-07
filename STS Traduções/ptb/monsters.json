@@ -674,5 +674,29 @@
     "DIALOG": [
       ""
     ]
+  },
+  "SpireShield": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Escudo do Pináculo",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpireSpear": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Lança do Pináculo"
+  },
+  "WrithingMass": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Massa Retorcida",
+    "DIALOG": [
+      ""
+    ]
   }
 }

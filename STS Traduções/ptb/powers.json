@@ -16,9 +16,9 @@
   "Amplify": {
     "NAME": "Amplificar",
     "DESCRIPTIONS": [
-      "Neste turno, jogue o seu próximo #yPoder duas vezes.",
-      "Neste turno, joguei os seus próximos ",
-      " #yPoderes duas vezes."
+      "O seu próximo #yPoder é jogado duas vezes neste turno.",
+      "Os seus próximos ",
+      " #yPoderes são jogados duas vezes."
     ]
   },
   "Anger": {
@@ -31,8 +31,8 @@
   "Angry": {
     "NAME": "Nervoso",
     "DESCRIPTIONS": [
-      "Sempre que ",
-      " recebe dano de um #yAtaque, ganha #b",
+      "",
+      "Ao receber dano de #yAtaque, ganhe #b",
       " de #yForça."
     ]
   },
@@ -56,15 +56,15 @@
   "Barricade": {
     "NAME": "Barricada",
     "DESCRIPTIONS": [
-      "#yProteção não é removida no início do seu turno.",
+      "#yProteção não é removida no início do turno.",
       "#yProteção não é removida no início do turno."
     ]
   },
   "Berserk": {
     "NAME": "Enfurecido",
     "DESCRIPTIONS": [
-      "Ganhe ",
-      " no início do seu turno."
+      "No início do seu turno, ganhe ",
+      ""
     ]
   },
   "Bias": {
@@ -110,16 +110,16 @@
   "Burst": {
     "NAME": "Explosão",
     "DESCRIPTIONS": [
-      "Neste turno, jogue sua próxima #yTécnica duas vezes.",
-      "Neste turno, jogue suas próximas ",
-      " #yTécnicas duas vezes."
+      "Sua próxima #yTécnica é jogada duas vezes neste turno.",
+      "Suas próximas ",
+      " #yTécnicas são jogadas duas vezes neste turno."
     ]
   },
   "Choked": {
     "NAME": "Estrangulado",
     "DESCRIPTIONS": [
-      "Perde #b",
-      " PV sempre que você joga uma carta neste turno."
+      "Sempre que você joga uma carta neste turno, perde #b",
+      " PV."
     ]
   },
   "Combust": {
@@ -147,14 +147,14 @@
   "Constricted": {
     "NAME": "Contraído",
     "DESCRIPTIONS": [
-      "No fim do seu turno recebe #b",
+      "No fim do seu turno, recebe #b",
       " de dano."
     ]
   },
   "Corruption": {
     "NAME": "Corrupção",
     "DESCRIPTIONS": [
-      "Técnicas custam #b0. Sempre que você jogar uma #yTécnica, #yExaura-a.",
+      "#yTécnicas custam #b0. Sempre que você jogar uma #yTécnica, #yExaura-a.",
       "Sempre que você jogar uma #yTécnica, #yExaura-a."
     ]
   },
@@ -162,14 +162,14 @@
     "NAME": "Creative AI",
     "DESCRIPTIONS": [
       "No começo do seu turno, adicione #b",
-      " Poder aleatório à sua mão.",
-      " Poder aleatório à sua mão."
+      " #yPoder aleatório à sua mão.",
+      " #yPoderes aleatórios à sua mão."
     ]
   },
   "Curiosity": {
     "NAME": "Curiosidade",
     "DESCRIPTIONS": [
-      "Sempre que você jogar um #yPoder, ganhe #b",
+      "Sempre que você jogar uma carta de #yPoder, ganha #b",
       " de #yForça."
     ]
   },
@@ -181,12 +181,12 @@
     ]
   },
   "Dance Puppet": {
-    "NAME": "Marionete de Dança",
+    "NAME": "",
     "DESCRIPTIONS": [
-      "Sempre que você jogar uma carta que não seja uma Técnica, receba #b",
-      " de dano. (Tipo de carta muda todo turno)",
-      "Sempre que você jogar uma carta que não seja um Attaque, receba #b",
-      "+1 Marionete de Dança"
+      "",
+      "",
+      "",
+      ""
     ]
   },
   "Dark Embrace": {
@@ -207,7 +207,7 @@
   "DexLoss": {
     "NAME": "Destreza em baixa",
     "DESCRIPTIONS": [
-      "No fim do seu turno, perca #b",
+      "No fim deste turno, perca #b",
       " #yDestreza."
     ]
   },
@@ -230,27 +230,27 @@
   "Double Tap": {
     "NAME": "Tiro Duplo",
     "DESCRIPTIONS": [
-      "Neste turno, jogue o seu próximo #yAtaque duas vezes.",
-      "Neste turno, jogue o seu próximo ",
-      " #yAtaques duas vezes."
+      "O seu próximo #yAtaque é jogado duas vezes neste turno.",
+      "Os seus próximos ",
+      " #yAtaques são jogados duas vezes neste turno."
     ]
   },
   "Draw": {
     "NAME": "Compra",
     "DESCRIPTIONS": [
-      "Compre #b",
-      " carta adicional no início de cada turno.",
-      " carta a menos no início de cada turno.",
-      " cartas adicionais no início de cada turno.",
-      " cartas a menos no início de cada turno."
+      "No começo do seu turno, compre #b",
+      " carta adicional.",
+      " carta a menos.",
+      " cartas adicionais.",
+      " cartas a menos."
     ]
   },
   "Draw Card": {
     "NAME": "Compra de Carta",
     "DESCRIPTIONS": [
       "Compre #b",
-      " cartas no próximo turno.",
-      " carta no próximo turno."
+      " cartas adicionais no próximo turno.",
+      " carta adicional no próximo turno."
     ]
   },
   "Draw Down": {
@@ -306,7 +306,7 @@
   "Entangled": {
     "NAME": "Preso",
     "DESCRIPTIONS": [
-      "Você não pode jogar #yAtaques por um turno."
+      "Você não pode jogar #yAtaques neste turno."
     ]
   },
   "Envenom": {
@@ -319,7 +319,7 @@
   "Evolve": {
     "NAME": "Evoluir",
     "DESCRIPTIONS": [
-      "Sempre que você comprar uma #yCondição, compre uma carta.",
+      "Sempre que você comprar uma #yCondição, compre #b1 carta.",
       "Sempre que você comprar uma #yCondição, compre #b",
       " cartas."
     ]
@@ -327,18 +327,18 @@
   "Explosive": {
     "NAME": "Explosivo",
     "DESCRIPTIONS": [
-      "Em #b",
-      " turnos, explode causando #b",
+      "Expode em #b",
+      " turnos, causando #b",
       " de dano.",
-      "Em seu turno, explode causando #b"
+      "Explode neste turno, causando #b"
     ]
   },
   "Extra Cards": {
     "NAME": "Cartas Extra",
     "DESCRIPTIONS": [
-      "Compre #b1 carta a mais no próximo turno.",
+      "Compre #b1 carta adicional no próximo turno.",
       "Compre #b",
-      " cartas extra no próximo turno."
+      " cartas adicionais no próximo turno."
     ]
   },
   "Feel No Pain": {
@@ -351,28 +351,29 @@
   "Fire Breathing": {
     "NAME": "Pirofagia",
     "DESCRIPTIONS": [
-      "No fim do seu turno, para cada #yAtaque jogado neste turno cause #b",
-      " de dano a TODOS os inimigos."
+      "No fim do seu turno, cause #b",
+      " de dano a TODOS os inimigos para cada #yAtaque jogado neste turno."
     ]
   },
   "Flame Barrier": {
     "NAME": "Barreira de Chamas",
     "DESCRIPTIONS": [
-      "Sempre que você receber dano de um #yAtaque, cause #b",
+      "Quando atacado, cause #b",
       " de dano de volta."
     ]
   },
   "Flex": {
     "NAME": "Flexionar",
     "DESCRIPTIONS": [
-      "No fim do seu turno, perca #b",
+      "No fim deste turno, perca #b",
       " de #yForça."
     ]
   },
   "Flight": {
     "NAME": "Vôo",
     "DESCRIPTIONS": [
-      "Reduza dano de #yAtaque recebido em #b50%. Cancelado se causado dano de #yAtaque #b3 vezes em um turno."
+      "Receba #b50% a menos de dano de #yAtaque. Cancelado se causado dano de #yAtaque #b",
+      " vezes em um turno."
     ]
   },
   "Focus": {
@@ -417,7 +418,7 @@
   "Heatsink": {
     "NAME": "Dissipadores de Calor",
     "DESCRIPTIONS": [
-      "Sempre que voce jogar uma carta de Poder, compre #b",
+      "Sempre que voce jogar uma carta de #yPoder, compre #b",
       " carta.",
       " cartas."
     ]
@@ -433,16 +434,16 @@
   "Hex": {
     "NAME": "Enfeitiçado",
     "DESCRIPTIONS": [
-      "Sempre que você jogar uma carta que não é um Ataque, embaralhe #b",
+      "Sempre que você jogar uma carta que não é um #Ataque, embaralhe #b",
       " #yAtordoado na sua pilha de compra."
     ]
   },
   "Hide": {
     "NAME": "Esconder-se",
     "DESCRIPTIONS": [
-      "Você não pode receber dano até o início do seu próximo turno.",
-      "Você não pode receber dano por #b",
-      " turnos."
+      "",
+      "",
+      ""
     ]
   },
   "Infinite Blades": {
@@ -456,7 +457,22 @@
   "Intangible": {
     "NAME": "Intangível",
     "DESCRIPTIONS": [
-      "Reduza TODO dano recebido e perda de PV para #b1 neste turno. Intangível é reaplicado a cada dois turnos."
+      "Reduza TODO dano recebido e perda de PV para #b1 neste turno. #yIntangível é reaplicado a cada dois turnos."
+    ]
+  },
+  "Invincible": {
+    "NAME": "Invencível",
+    "DESCRIPTIONS": [
+      "Só pode perder #b",
+      " mais PV neste turno.",
+      "Não pode mais ser ferido neste turno."
+    ]
+  },
+  "BeatOfDeath": {
+    "NAME": "Ritmo da Morte",
+    "DESCRIPTIONS": [
+      "Sempre que você jogar uma carta, receba #b",
+      " de dano."
     ]
   },
   "IntangiblePlayer": {
@@ -492,10 +508,10 @@
     ]
   },
   "Lockon": {
-    "NAME": "Certeiro",
+    "NAME": "Na Mira",
     "DESCRIPTIONS": [
       "Receba #b",
-      "% mais dano de ORbes por #b",
+      "% mais dano de Orbes por #b",
       " turno.",
       " turnos."
     ]
@@ -503,24 +519,24 @@
   "Loop": {
     "NAME": "Loop",
     "DESCRIPTIONS": [
-      "No começo do seu turno, use a habilidade passiva do seu próximo Orbe.",
-      "No começo do seu turno, use a habilidade passiva dos seus #b",
-      " próximos Orbes."
+      "No começo do seu turno, ative a passiva do seu próximo Orbe.",
+      "No começo do seu turno, ative a passiva do seu próximo Orbe #b",
+      " vezes."
     ]
   },
   "Machine Learning": {
     "NAME": "Aprendizado de Máquina",
     "DESCRIPTIONS": [
-      "Compre #b",
-      " carta adicional no começo de cada um dos seus turnos.",
-      " cartas adicionais no começo de cada um dos seus turnos."
+      "No começo do seu turno, compre #b",
+      " carta adicional.",
+      " cartas adicionais."
     ]
   },
   "Magnetism": {
     "NAME": "Magnetismo",
     "DESCRIPTIONS": [
-      "No começo do seu turno, adicione #b%s carta incolor aleatória à sua mão.",
-      "No começo do seu turno, adicione #b%s cartas incolores aleatórias à sua mão."
+      "No começo do seu turno, adicione #b%s carta Incolor aleatória à sua mão.",
+      "No começo do seu turno, adicione #b%s cartas Incolores aleatórias à sua mão."
     ]
   },
   "Malleable": {
@@ -543,10 +559,10 @@
   "Metallicize": {
     "NAME": "Metalizar",
     "DESCRIPTIONS": [
-      "Ganhe #b",
-      " de #yProteção no fim do seu turno.",
-      "Ganha #b",
-      " de #yProteção no fim de seu turno."
+      "No fim do seu turno, ganhe #b",
+      " de #yProteção.",
+      "No fim de seu turno, ganha #b",
+      " de #yProteção."
     ]
   },
   "Minion": {
@@ -565,15 +581,15 @@
   "Next Turn Block": {
     "NAME": "Proteção no Próximo Turno",
     "DESCRIPTIONS": [
-      "No início do seu próximo turno, ganhe #b",
-      " de #yProteção."
+      "Ganhe #b",
+      " de #yProteção no próximo turno."
     ]
   },
   "Night Terror": {
     "NAME": "Pesadelo",
     "DESCRIPTIONS": [
-      "No início do seu próximo turno, adicione #b",
-      " cartas à sua mão."
+      "Adicione #b",
+      " cartas à sua mão no próximo turno."
     ]
   },
   "No Attack": {
@@ -585,7 +601,7 @@
   "No Draw": {
     "NAME": "Sem Compras",
     "DESCRIPTIONS": [
-      "Você não pode comprar cartas até o fim do turno."
+      "Você não pode comprar cartas neste turno."
     ]
   },
   "Noxious Fumes": {
@@ -604,7 +620,7 @@
   "Painful Stabs": {
     "NAME": "Estocadas Dolorosas",
     "DESCRIPTIONS": [
-      "Sempre que você recebe dano deste inimigo, adicione uma #yFerida na sua Pilha de Descarte."
+      "Sempre que receber dano deste inimigo, adicione uma #yFerida na sua pilha de descarte."
     ]
   },
   "Panache": {
@@ -633,10 +649,10 @@
   "Plated Armor": {
     "NAME": "Armadura Chapeada",
     "DESCRIPTIONS": [
-      "Ganhe #b",
-      " de #yProteção no fim do seu turno. Perder PV de um ataque reduz #yArmadura #yChapeada em #b1.",
-      "Ganha #b",
-      " de #yProteção no fim de seu turno. Perder PV de um ataque reduz #yArmadura #yChapeada em #b1."
+      "No fim do seu turno, ganhe #b",
+      " de #yProteção. Receber dano reduz #yArmadura #yChapeada em #b1.",
+      "No fim do turno, ganha #b",
+      " de #yProteção. Receber dano reduz #yArmadura #yChapeada em #b1."
     ]
   },
   "Poison": {
@@ -658,7 +674,7 @@
   "Primitive": {
     "NAME": "Primitivo",
     "DESCRIPTIONS": [
-      "Sempre que você jogar uma carta Comum, compre #b",
+      "Sempre que você jogar uma carta #yComum, compre #b",
       " carta.",
       " cartas."
     ]
@@ -666,7 +682,7 @@
   "Rage": {
     "NAME": "Raiva",
     "DESCRIPTIONS": [
-      "Sempre que você jogar um Ataque neste turno, ganhe #b",
+      "Sempre que você jogar um #yAtaque neste turno, ganhe #b",
       " de #yProteção."
     ]
   },
@@ -681,14 +697,14 @@
   "Reduce Damage": {
     "NAME": "Reduzir Dano",
     "DESCRIPTIONS": [
-      "Reduza dano recebido em #b"
+      ""
     ]
   },
   "Regenerate": {
     "NAME": "Regenerar",
     "DESCRIPTIONS": [
-      "Cura #b",
-      " #yPV no fim de seu turno."
+      "No fim de seu turno, cura #b",
+      " #yPV."
     ]
   },
   "Regeneration": {
@@ -707,16 +723,16 @@
     ]
   },
   "Repulse": {
-    "NAME": "Repulsa",
+    "NAME": "",
     "DESCRIPTIONS": [
-      "Sempre que ",
-      " recebe dano de um ataque, coloca uma #yFerida na sua mão."
+      "",
+      ""
     ]
   },
   "Retain Cards": {
     "NAME": "Manter Cartas",
     "DESCRIPTIONS": [
-      "No fim de cada turno, você pode manter #b",
+      "No fim do seu turno, você pode manter #b",
       " carta.",
       " cartas."
     ]
@@ -724,16 +740,16 @@
   "Retain Hand": {
     "NAME": "Manter Mão",
     "DESCRIPTIONS": [
-      "No fim do seu turno, não descarte sua mão por #b",
-      " turnos.",
-      "No fim do seu turno, não descarte sua mão."
+      "Pelos próximos #b",
+      " turnos, não descarte sua mão.",
+      "Não descarte sua mão no fim deste turno."
     ]
   },
   "Riposte": {
     "NAME": "Contragolpe",
     "DESCRIPTIONS": [
-      "Uma vez por turno, causa #b",
-      " de dano de volta quando você jogar um #yAtaque."
+      "",
+      ""
     ]
   },
   "Ritual": {
@@ -746,7 +762,7 @@
   "Rupture": {
     "NAME": "Ruptura",
     "DESCRIPTIONS": [
-      "Ao perder PV de uma carta, ganhe #b",
+      "Sempre que você PV de uma carta, ganhe #b",
       " de #yForça."
     ]
   },
@@ -766,8 +782,8 @@
   "Shackled": {
     "NAME": "Algemado",
     "DESCRIPTIONS": [
-      "Recupera #b",
-      " de #yForça no fim de seu turno."
+      "No fim de seu turno, recupera #b",
+      " de #yForça."
     ]
   },
   "Sharp Hide": {
@@ -780,7 +796,7 @@
   "Shriek From Beyond": {
     "NAME": "Guinchar Do Além",
     "DESCRIPTIONS": [
-      "Sempre que você jogar um Attaque, descarte uma carta aleatória."
+      "Sempre que você jogar um #yAtaque, descarte uma carta aleatória."
     ]
   },
   "Skill Burn": {
@@ -795,8 +811,8 @@
   "Slow": {
     "NAME": "Lento",
     "DESCRIPTIONS": [
-      "Para cada carta jogada neste turno, ",
-      " recebe #b10% a mais de dano de #yAtaques.",
+      "Sempre que você jogar uma carta, ",
+      " recebe #b10% a mais de dano de #yAtaques neste turno.",
       " (Recebe #b",
       "% a mais de dano)"
     ]
@@ -811,8 +827,8 @@
   "Spore Cloud": {
     "NAME": "Nuvem de Esporos",
     "DESCRIPTIONS": [
-      "Ao morrer, aplica #yVulnerabilidade a você por #b",
-      " turnos."
+      "Ao morrer, aplica #b",
+      " #yVulnerável."
     ]
   },
   "Stasis": {
@@ -825,15 +841,15 @@
   "StaticDischarge": {
     "NAME": "Descarga Estática",
     "DESCRIPTIONS": [
-      "Quando receber dano de #yAtaque, #yCanalize #b",
+      "Sempre que você receber dano de #yAtaque, #yCanalize #b",
       " #yRelâmpago."
     ]
   },
   "Storm": {
     "NAME": "Tempestade",
     "DESCRIPTIONS": [
-      "Sempre que você jogar um #bPoder, #yCanalize #b ",
-      " Relâmpago."
+      "Sempre que você jogar um #yPoder, #yCanalize #b ",
+      " #yRelâmpago."
     ]
   },
   "Strength": {
@@ -847,8 +863,8 @@
   "TheBomb": {
     "NAME": "A Bomba",
     "DESCRIPTIONS": [
-      "No fim de %1$s turnos, cause %2$s de dano a TODOS os inimigos.",
-      "No fim deste turno, cause %1$s de dano a TODOS os inimigos."
+      "No fim de #b%1$s turnos, cause #b%2$s de dano a TODOS os inimigos.",
+      "No fim deste turno, cause #b%1$s de dano a TODOS os inimigos."
     ]
   },
   "Thievery": {
@@ -861,7 +877,7 @@
   "Thorns": {
     "NAME": "Espinhos",
     "DESCRIPTIONS": [
-      "Quando receber dano de um #yAtaque, causa #b",
+      "Quando atacado, causa #b",
       " de dano de volta."
     ]
   },
@@ -876,7 +892,7 @@
     "NAME": "Distorção Temporal",
     "DESCRIPTIONS": [
       "Sempre que você jogar #b",
-      " cartas, seu turno é terminado e Devorador do Tempo ganha #b",
+      " cartas, termina seu turno e ganha #b",
       " de #yForça."
     ]
   },
@@ -899,7 +915,7 @@
   "Unstable": {
     "NAME": "Instável",
     "DESCRIPTIONS": [
-      "Cause dano suficiente para o desequilibrar."
+      ""
     ]
   },
   "Venomology": {
@@ -937,8 +953,8 @@
   "Equilibrium": {
     "NAME": "Equilíbrio",
     "DESCRIPTIONS": [
-      "Mantenha a sua mão neste turno.",
-      "Mantenha a sua mão por #b",
+      "#yMantenha a sua mão neste turno.",
+      "#yMantenha a sua mão por #b",
       " turnos."
     ]
   },
@@ -953,8 +969,8 @@
   "Shifting": {
     "NAME": "Transformando",
     "DESCRIPTIONS": [
-      "Sempre que ",
-      " tomar dano, perca a mesma quantia em #yForça até o fim do turno."
+      "",
+      "Ao perder PV, perca a mesma quantia em #yForça até o fim do turno."
     ]
   },
   "TimeMazePower": {
@@ -973,9 +989,27 @@
   "CorpseExplosionPower": {
     "NAME": "Explosão de Cadáveres",
     "DESCRIPTIONS": [
-      "Quando este inimigo morrer, cause dano a TODOS os inimigos igual a seu PV máximo.",
-      "Quando este inimigo morrer, cause dano a TODOS os inimigos igual a #b",
-      " vezes seu PV máximo."
+      "Ao morrer, causa dano igual ao seu PV máximo para TODOS os inimigos.",
+      "Ao morrer, causa dano igual ao seu PV máximo #b",
+      " vezes para TODOS os inimigos."
+    ]
+  },
+  "Surrounded": {
+    "NAME": "Cercado",
+    "DESCRIPTIONS": [
+      "Receba #b50% a mais de dano se atacado pelas costas. Use cartas que escolhem alvos ou poções para mudar a sua orientação."
+    ]
+  },
+  "Compulsive": {
+    "NAME": "Reativo",
+    "DESCRIPTIONS": [
+      "Ao receber dano de Ataque, muda a sua intenção."
+    ]
+  },
+  "BackAttack": {
+    "NAME": "Ataque pelas Costas",
+    "DESCRIPTIONS": [
+      "Causa 50% a mais de dano já que está atacando-o pelas costas."
     ]
   }
 }

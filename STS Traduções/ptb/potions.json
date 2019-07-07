@@ -9,7 +9,7 @@
   "AttackPotion": {
     "NAME": "Poção de Ataque",
     "DESCRIPTIONS": [
-      "Adicione um Ataque aleatório à sua mão, ele custa #b0."
+      "Escolha #b1 de #b3 #yAtaques aleatórios para adicionar a sua mão, custa #b0 neste turno."
     ]
   },
   "Block Potion": {
@@ -73,7 +73,7 @@
   "FairyPotion": {
     "NAME": "Fada na Garrafa",
     "DESCRIPTIONS": [
-      "Quando você morreria, cure #b10% do seu PV Máximoe descarte esta poção."
+      "Quando você morreria, cure #b10% do seu PV Máximo e descarte esta poção."
     ]
   },
   "FearPotion": {
@@ -114,7 +114,7 @@
     "NAME": "Fantasma na Jarra",
     "DESCRIPTIONS": [
       "Ganhe #b",
-      " #yIntangível"
+      " #yIntangível."
     ]
   },
   "Health Potion": {
@@ -148,50 +148,52 @@
   "PowerPotion": {
     "NAME": "Poção de Poder",
     "DESCRIPTIONS": [
-      "Adicione um Poder aleatório à sua mão, ela custa #b0."
+      "Escolha #b1 de #b3 #yPoderes aleatórios para adicionar a sua mão, custa #b0 neste turno."
     ]
   },
   "Regen Potion": {
     "NAME": "Poção de Regeneração",
     "DESCRIPTIONS": [
       "Ganhe #b",
-      " #yRegenerar."
+      " #yRegenerar.",
+      ""
     ]
   },
   "SkillPotion": {
     "NAME": "Poção de Técnica",
     "DESCRIPTIONS": [
-      "Adicione uma Técnica aleatória à sua mão, ela custa #b0."
+      "Escolha #b1 de #b3 #yTécnicas aleatórias para adicionar a sua mão, custa #b0 neste turno."
     ]
   },
   "SmokeBomb": {
     "NAME": "Bomba de Fumaça",
     "DESCRIPTIONS": [
-      "Escape de um combate que não seja de Chefe. Não receberá recompensas."
+      "Escape de um combate que não seja de Chefe. Não receberá recompensas.",
+      "Estou cercado!"
     ]
   },
   "SneckoOil": {
     "NAME": "Óleo de Serpentixa",
     "DESCRIPTIONS": [
-      "Compre #b",
-      "cartas. Fique #yConfuso.",
-      "carta."
+      "Fique #yConfuso. Compre #b",
+      " cartas.",
+      " carta."
     ]
   },
   "SpeedPotion": {
     "NAME": "Poção de Velocidade",
     "DESCRIPTIONS": [
       "Ganhe #b",
-      " Destreza. No fim do seu turno, perca #b",
-      " Destreza."
+      " #yDestreza. No fim do seu turno, perca #b",
+      " #yDestreza."
     ]
   },
   "SteroidPotion": {
     "NAME": "Poção de Esteróides",
     "DESCRIPTIONS": [
       "Ganhe #b",
-      " Força. No fim do seu turno, perca #b",
-      " Força."
+      " #yForça. No fim do seu turno, perca #b",
+      " #yForça."
     ]
   },
   "Strength Potion": {

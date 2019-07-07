@@ -48,7 +48,8 @@
   "LOC_ZHS": {
     "HEADER": "Localização - Chinês (Simplificado)",
     "NAMES": [
-      "Sound of Mystery"
+      "Sound of Mystery",
+      "IrisRaphael"
     ]
   },
   "LOC_ZHT": {
@@ -84,6 +85,7 @@
       "Hongkong Koma",
       "Moly",
       "koykoy13",
+      "Magnus Upmann",
       "Magnus Upmann"
     ]
   },
@@ -139,6 +141,7 @@
       "Grzegorz \"GregPL\" Bogus³awski",
       "Erwin \"mateusz3010\" Matys",
       "Mettie",
+      "Rafa³ \"SponTon83\" Szyszko",
       "Rafa³ \"SponTon83\" Szyszko"
     ]
   },
@@ -151,15 +154,15 @@
       "Leonardo \"Iikat\" Takii",
       "Nathan \"NoxShadow\" Cervieri",
       "Paulo \"SilverTape\" Hauck",
-			"Gerenciamento de Tradução e Pessoal:",
-			"Felipe \"Xcution\" Requejo",
-			"Atualização e Correção de Tradução:",
-			"Felipe \"Xcution\" Requejo",
-			"Raul \"raulalves\" Alves",
-			"Golen",
-			"Agradecimento Especial:",
-			"Juan \"ajuanjojjj\""
-
+      "Gerenciamento de Tradução e Pessoal:",
+      "Felipe \"Xcution\" Requejo",
+      "Atualização e Correção de Tradução:",
+      "Felipe \"Xcution\" Requejo",
+      "Raul \"raulalves\" Alves",
+      "Golen",
+      "Victor \"Tsu\" Benetti",
+      "Agradecimento Especial:",
+      "Juan \"ajuanjojjj\""
     ]
   },
   "LOC_RUS": {
@@ -179,6 +182,7 @@
       "Alexandr \"LiaNdrY\" Mazistov",
       "Dmitry \"Regallion\" Zhiryakov",
       "Shop Asset Translation:",
+      "Urist McFerrum",
       "Urist McFerrum"
     ]
   },
@@ -224,7 +228,10 @@
       "Merijn van der Vliet",
       "David Von Derau",
       "Conor Watson",
-      "David \"divadus\" Withington"
+      "David \"divadus\" Withington",
+      "Jason \"Wyrm\" Deng",
+      "John \"bigunit3000\" Wilson",
+      "TBytemaster"
     ]
   },
   "SPECIAL": {
@@ -238,7 +245,8 @@
       "feedbackbot",
       "Evan Howell",
       "Justin Myhres",
-      "robojumper"
+      "robojumper",
+      "Tony \"kiooeht\" Moore"
     ]
   },
   "THANKS_MSG": {
@@ -255,7 +263,10 @@
     "HEADER": "Ukrainian Localization",
     "NAMES": [
       "Vladyslav \"DarkXylese\" Kashtelyanov",
-      "Vasyl \"RDSk\" Mykhaliuk"
+      "Vasyl \"RDSk\" Mykhaliuk",
+      "Corrections and Translation: ",
+      "Vasyl \"RDSk\" Mykhaliuk",
+      "Artem \"Crazytosik\" Zemlianyi"
     ]
   },
   "LOC_CAT": {
@@ -273,7 +284,8 @@
     "NAMES": [
       "Aditya \"RiSQ.\" Arifin",
       "Daryan \"Samus\" Ramadhany",
-      "Szaal"
+      "Szaal",
+      "Jason Julian"
     ]
   },
   "LOC_SPA": {
@@ -286,6 +298,7 @@
       "Skiddome",
       "Juanjo \"ajuanjojjj\" Martinez",
       "Grammar and Cleanup:",
+      "Joaquín \"Pip1n\" López",
       "Joaquín \"Pip1n\" López"
     ]
   },
@@ -293,6 +306,20 @@
     "HEADER": "Esperanto Localization",
     "NAMES": [
       "Vincent \"Babelismoj\" Oostelbos"
+    ]
+  },
+  "LOC_DUT": {
+    "HEADER": "Dutch Localization",
+    "NAMES": [
+      "Gremlin Leader:",
+      "Jelle Steinmann \"NotADitto\"",
+      "Gremlin Nob:",
+      "Charlie \"Alcus\" Ye",
+      "Gremlins:",
+      "Oscar Cousin",
+      "\"Meriscan\"",
+      "Lise Leitner",
+      "Joris \"Mort\" Bogers"
     ]
   }
 }

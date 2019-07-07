@@ -61,7 +61,7 @@
     "TEXT": [
       "As relíquias encontradas ao longo do pináculo concedem bônus únicos e permanecem ao longo de sua jornada. NL Elas podem ser encontradas derrotando inimigos poderosos ou dentro de baús.",
       "Essa relíquia ainda está para ser vista.",
-      "Seu poder está esgotado."
+      "Esta relíquia foi usada."
     ],
     "LABEL": [
       "Relíquias",
@@ -211,7 +211,8 @@
       "O Vendedor não dá reembolsos. Ele é um babaca.",
       "O serviço de remoção de carta aumenta em preço quando você o usa.",
       "O serviço de remoção de carta só pode ser usado uma vez a cada loja.",
-      "Dano de poções, relíquias, e poderes não são considerados dano de ataque."
+      "Dano de poções, relíquias, e poderes não são considerados dano de ataque.",
+      "Efeitos que geram cartas aleatórias durante o combate nunca irão curar você."
     ],
     "LABEL": [
       "Você pode descartar poções para abrir espaço para outras."

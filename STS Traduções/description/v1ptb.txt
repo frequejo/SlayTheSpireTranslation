@@ -1,0 +1,118 @@
+Slay the Spire 1.0: Adeus Acesso Antecipado
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/2cb9bf66bef72b927c21c57b6a2c4e9e65da5bc9.png[/img]
+Olá a todos,
+
+Slay the Spire saiu do Acesso Antecipado agora. Veja! Um novo trailer!
+https://youtu.be/9SZUtyYSOjQ
+[h1]Atualizações semanais[/h1]
+Com o lançamento completo do jogo, nós tiraremos uma folga das atualizações semanais e fazer uso deste tempo para reavaliar as prioridades de nossos esforços e coordenar lançamentos em outras plataformas. Fiquem seguros, Slay the Spire estará disponível para o maior número de pessoas possível!
+
+[h1]Conteúdo Futuro[/h1]
+É isso aí, mais conteúdo está vindo para Slay the Spire! Existem algumas adições específicas para PC que nós não pudemos trazer para o lançamento, mas que traremos em uma atualização mais tarde. E também, mais "conteúdo" virá... Sem spoilers hoje.
+
+[h1]O que mudou desde o Acesso Antecipado?[/h1]
+Slay the Spire foi lançado em Acesso Antecipado em 14 de Novembro de 2017. Nós compilamos uma lista das melhores mudanças de todos os nossos patches semanais. Foi um ano produtivo!
+[list]
+[*]Um Terceiro Personagem
+[*]O Ato Final
+[*]Ascensões
+[*]Escaladas Diárias
+[*]Modo Customizado
+[*]Escaladas com Semente
+[*]Retratos de Cartas Beta
+[*]Integração de Votos via Twitch
+[*]Cartas Incolores Aprimoráveis
+[*]Modo Rápido
+[*]Slots de Salvar
+[*]Icones de Chefes no Mapa
+[*]Ranks de Liderança da Steam
+[*]Suporte a Workshop Steam
+[*]Cartas de Troca da Steam
+[*]Histórico de Escaladas
+[*]Abas na Biblioteca de Cartas
+[*]Suporte de Notificação detalhada na Steam
+[*]Suporte para Controles
+[*]Builds em 32-bit
+[*][url=https://store.steampowered.com/app/877620/Slay_the_Spire__Soundtrack/?snr=1_5_9__405]Official Soundtrack[/url]
+[/list]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/893f013331e8207ef139ba783bd89d9c3a81434f.png[/img]
+[i]Uma arte atualizada que foi feita dos Bandidos da Máscara Vermelha[/i]
+
+[h1]Conteúdo adicionado durante o Acesso Antecipado[/h1]
+Muitas pequenas coisas foram mudadas para assegurar que cada escalada parecesse justa, cada carta tivesse seu propósito, e que houvesse a quantidade certa de varidade para forçar decisões interessantes. Nós lemos mais de 17.000 sugestões, bugs, e ideias durante o desenvolvimento!
+[list]
+[*]0 -> 15 linguagens adicionais (Traduzidas pela Comunidade!)
+[*]189 -> 283 Cartas
+[*]109 -> 161 Reliquias
+[*]40 -> 52 Eventos
+[*]10 -> 28 Poções
+[*]54 -> 64 Inimigos
+[*]1,300+ problemas consertados
+[*]500+ balancamentos de gameplay e ajustes feitos
+[*]500+ Interfaces ou Efeitos Visuais foram criados, modificados, ou revisadas
+[*]50+ Efeitos Sonoros adicionados ou modificados
+[/list]
+
+[h1]Um Grande Obrigado[/h1]
+Esta jornada em Acesso Antecipado foi extremamente gratificante para nós e nós gostaríamos de agradecer a todos que nos ajudaram a trazer Slay the Spire onde está hoje.
+
+Slay the Spire foi desenvolvido pouco mais de 3 anos atrás. Os primeiros 2 anos através de um pequeno e privado grupo de teste interno e, é claro, publicamente na Steam no último ano. O apoio constante tanto em testes públicos quanto privados nos motivaram a trabalhar duro e nós esperamos que qualquer um que jogar o jogo antes e depois do lançamento possa ver todo o trabalho que nós e vários contribuidores aplicamos ao jogo.
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/8365d0caa1fc727afb0d098bcc0fd53c7c28e4be.gif[/img]
+[i]Imagem de um Protótipo Inicial de 25 de Agosto de 2015[/i]
+
+Para todos que escreveram análises, encontraram problemas com dedicação, nos enviaram emails de apoio, retweetaram ou deram Like, modificaram antes e depois de ser oficialmente implementado, fizeram memes de qualidade, nos elogiaram e/ou criticaram em artigos, nos agraciaram com belas artes em beta, streamaram, criaram conteúdo no YouTube, e nos ajudaram a criar conexões com várias pessoas, eu digo "Obrigado" e me desculpo se alguém foi esquecido.
+
+[h1]Fan Arte da Comunidade[/h1]
+É Fan Arte ou Fanarte? Nós não estaremos postando estes por um tempo sem os patches semanais :(. Tem sido motivador vê-los a cada semana e isso fez com que nossos patches semanais fossem muito coloridos!
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/221a3788c3da3d006b508d90cf3331c182bcd8c1.jpg[/img]
+[i]Retrato Rígido por [url=https://twitter.com/MoronisMcDude]@MoronisMcDude[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/70bd915b49cfd468814bf7c8da618afc049d8ed6.jpg[/img]
+[i]Rígido exaurido por [url=https://www.reddit.com/user/dragonclaude]u/Dragonclaude[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/7348f4992dfa7895e4ad16de20fcf3e02e766ee6.jpg[/img]
+[i]Ruína e Melancolia por [url=https://www.reddit.com/user/Ziggymcfly]u/Ziggymcfly[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/2645df82bc21a1866eee9910b826e637670b34f0.jpg[/img]
+[i]O Defeituoso por [url=https://twitter.com/nicxanbrooks/status/1067333122759495681]@nicxanbrooks[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/72bcbca8892d54f4bee62fa52ded10fbb31ef977.jpg[/img]
+[i]O Escolhido por [url=https://www.reddit.com/user/Cweeperz]u/Cweeperz[/url][/i]
+
+[h1]Patch Notes[/h1]
+
+[h1]Balanços[/h1]
+[list]
+[*]Ordem da Luta no Coliseu contra Nob trocada para que o Nob possa aplicar Vulnerável.
+[/list]
+
+[h1]Interface e Efeitos[/h1]
+[list]
+[*]Popups de Acesso Antecipado (Early Access) e Beta removidos do jogo.
+[*]EARLY_ACCESS -> V1.0 (Version 1.0) por texto com número da versão.
+[*]Aumentada limites de scroll em 150px em telas de status para o fundo.
+[*]Itens do Menu Principal aparecem 0.25s mais rápido (reduzindo espera).
+[*]A cena de pós-créditos de Neow pode agora ser acelerada se você clicar 5 vezes durante a cena.
+[*]Efeito Visual do Golpe Veloz agora é um efeito de batida ao invés de um de corte.
+[/list]
+
+[h1]Conserto de Bugs[/h1]
+[list]
+[*]Consertado um crash raro que acontece sob circunstâncias desconhecidas na tela de visualização de reliquias.
+[*]Adicionado uma lógica de segurança para previnir um tamanho de mão de ir além de >10 em ocasiões raras.
+[*]Consertada situação onde where Estilhaço de prisma pode retornar cartas que não foram destravadas ainda.
+[*]Consertada situação onde ao abrir o jogo, o conteúdo do próximo desbloqueio de nível está disponível para todos os personagens.
+[*]Consertado um crash raro ao abrir causado por arquivos de save modificados.
+[*]Consertado um crash raro quando utilizando controles em telas de vitória e morte.
+[*]Obter chaves agora são mais rápidas para que não possam falhar em ser obtidas se o jogador sair muito rápido.
+[*]Previnido um crash raro de transição de ato muito provavelmente ligado a saves antigos.
+[/list]
+
+[h1]Localização[/h1]
+[list]
+[*]Atualizações para POL, PTB, SPA.
+[/list]

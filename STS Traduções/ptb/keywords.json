@@ -15,7 +15,8 @@
     },
     "CURSE": {
       "NAMES": [
-        "maldição"
+        "maldição",
+        "maldições"
       ],
       "DESCRIPTION": "Cartas de maldição são cartas negativas que permanecem no seu baralho."
     },
@@ -27,36 +28,38 @@
     },
     "ETHEREAL": {
       "NAMES": [
-        "etérea",
-				"etéreo"
+        "etéreo",
+        "etérea"
       ],
       "DESCRIPTION": "Se esta carta estiver em sua mão no fim do turno, ela será exaurida. Cartas exauridas são removidas do seu baralho até o fim do combate."
     },
     "EXHAUST": {
       "NAMES": [
-        "exaurida",
         "exaurir",
+        "exaurida",
         "exaura"
       ],
       "DESCRIPTION": "Removida até o fim do combate."
     },
     "INNATE": {
       "NAMES": [
-        "inata",
-				"inato"
+        "inato",
+        "inata"
       ],
       "DESCRIPTION": "Comece cada combate com esta carta em sua mão."
     },
     "LOCKED": {
       "NAMES": [
+        "bloqueado",
         "bloqueada"
       ],
-      "DESCRIPTION": "Esta carta ainda deve ser desbloqueada."
+      "DESCRIPTION": "Esta carta ainda precisa ser desbloqueada."
     },
     "POISON": {
       "NAMES": [
         "veneno",
-        "envenenado"
+        "envenenado",
+        "envenenar"
       ],
       "DESCRIPTION": "Criaturas envenenadas perdem PV no início de seus turnos. A cada turno, o Veneno é reduzido em #b1."
     },
@@ -76,7 +79,8 @@
     },
     "STATUS": {
       "NAMES": [
-        "condição"
+        "condição",
+        "condições"
       ],
       "DESCRIPTION": "Cartas de condição são removidas no fim do combate."
     },
@@ -84,16 +88,18 @@
       "NAMES": [
         "força"
       ],
-      "DESCRIPTION": "Força adiciona dano adicional a Ataques."
+      "DESCRIPTION": "Força adiciona dano a Ataques."
     },
     "TRANSFORM": {
       "NAMES": [
-        "transformar"
+        "transformar",
+        "transforme"
       ],
       "DESCRIPTION": "Cartas transformadas se tornam cartas aleatórias de qualquer raridade."
     },
     "UNKNOWN": {
       "NAMES": [
+        "desconhecido",
         "desconhecida"
       ],
       "DESCRIPTION": "Essa carta ainda não foi encontrada."
@@ -114,15 +120,15 @@
     },
     "VULNERABLE": {
       "NAMES": [
-        "vulnerável",
-        "vulnerabilidade"
+        "vulnerabilidade",
+        "vulnerável"
       ],
       "DESCRIPTION": "Criaturas vulneráveis recebem #b50% a mais de dano de Ataques."
     },
     "WEAK": {
       "NAMES": [
-        "enfraquecido",
         "fraqueza",
+        "enfraquecido",
         "enfraquecer",
         "enfraquece"
       ],
@@ -202,7 +208,8 @@
     "EVOKE": {
       "NAMES": [
         "evocar",
-        "evocado"
+        "evocado",
+        "evoque"
       ],
       "DESCRIPTION": "Consuma o seu Orbe mais a direita e use seu efeito de Evocação."
     },
@@ -216,48 +223,50 @@
     "CHANNEL": {
       "NAMES": [
         "canalizar",
-        "canalizado"
+        "canalizado",
+        "canalize"
       ],
       "DESCRIPTION": "Canalizar um Orbe coloca-o em seu primeiro slot vazio. Se voce não tem slots vazios, o seu primeiro Orbe é automaticamente #yEvocado para abrir espaço."
     },
     "DARK": {
       "NAMES": [
-        "Trevas",
-        "Trevas+"
+        "trevas",
+        "trevas+"
       ],
       "DESCRIPTION": "Orbe: Aumenta o dano a cada turno. Quando #yEvocado, cause dano ao inimigo com menos PV."
     },
     "OPENER": {
       "NAMES": [
-        "Abertura"
+        "abertura"
       ],
       "DESCRIPTION": "Cartas de Abertura só podem ser jogadas como a primeira carta em cada turno."
     },
     "LIGHTNING": {
       "NAMES": [
-        "Relâmpago",
-        "Relâmpago+"
+        "relâmpago",
+	      "relâmpagos",
+        "relâmpago+"
       ],
       "DESCRIPTION": "Orbe: Cause dano a inimigos aleatórios."
     },
     "FROST": {
       "NAMES": [
-        "Gelo",
-        "Gelo+"
+        "gelo",
+        "gelo+"
       ],
       "DESCRIPTION": "Orbe: Ganhe #yProteção."
     },
     "THORNS": {
       "NAMES": [
-        "Espinhos"
+        "espinhos"
       ],
       "DESCRIPTION": "Quando receber dano de #yAtaque, cause dano de volta."
     },
     "LOCK_ON": {
       "NAMES": [
-        "Na Mira"
+        "na mira"
       ],
-      "DESCRIPTION": "Alvos com Certeiro recebem #b50% de dano adicional de Orbes."
+      "DESCRIPTION": "Alvos com Na Mira recebem #b50% de dano adicional de Orbes."
     }
   }
 }

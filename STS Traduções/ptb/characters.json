@@ -1,20 +1,20 @@
 {
-	"Crowbot": {
-		"NAMES": [
-			"Corvobô"
-		],
-		"TEXT": [
-			"BEEP BOOP"
-		]
-	},
-	"Defect": {
-		"NAMES": [
-			"O Defeituoso"
-		],
-		"TEXT": [
-			"Um automato de combate que se tornou autoconsciente. NL Tecnologia ancestral permite a manipulação de Orbes."
-		]
-	},
+  "Crowbot": {
+    "NAMES": [
+      "Corvobô"
+    ],
+    "TEXT": [
+      "BEEP BOOP"
+    ]
+  },
+  "Defect": {
+    "NAMES": [
+      "O Defeituoso"
+    ],
+    "TEXT": [
+      "Um automato de combate que se tornou autoconsciente. NL Tecnologia ancestral permite a manipulação de Orbes."
+    ]
+  },
   "Ironclad": {
     "NAMES": [
       "O Rígido"
@@ -45,6 +45,16 @@
       "~*BOCEJO*~",
       "Eu gosto de ouro.",
       "Minha cor favorita é azul. NL Qual é a sua?"
+    ],
+    "OPTIONS": [
+      "Como cheguei aqui? NL Não faço idéia.",
+      "Última chance de comprar algo'! NL ~*wink*~ ~*wink*~",
+      "..... NL .... NL .........",
+      "Eu prefiro gatos.",
+      "Sem pressa. NL Sem pressa.",
+      "Isso não é @excitante!?@",
+      "Eu costumava ser como você.",
+      "Subindo?"
     ]
   },
   "Neow Event": {
@@ -56,7 +66,7 @@
       "~Olá...~ NL ~Novamente..~",
       "~Saudações...~",
       "~Outra~ NL ~tentativa...?~",
-      "~Avance~ ~até~ ~o~ ~Chefe...~ NL ~para~ ~receber~ ~minha..~ ~benção...~",
+      "~Avance~ ~até~ ~o~ ~Chefe...~ NL ~para~ ~receber~ ~mais..~ ~bençãos...~",
       "~Enfrente~ ~pelo...~ ~menos~ NL ~o~ ~primeiro~ ~chefe...~",
       "~Eu~ ~te~ ~trouxe~ ~de~ ~volta...~",
       "~Escolha...~",
@@ -75,7 +85,8 @@
       "[Continuar]",
       "[Conversar]",
       "[Pular]",
-      "[Sair]"
+      "[Sair]",
+      "Escolha 10 cartas para adicionar ao seu deck."
     ]
   },
   "Neow Reward": {
@@ -110,7 +121,9 @@
       "Selecione 2 cartas para Transformar",
       "Selecione uma carta para Aprimorar",
       "[ #gInimigos #gnos #gpróximos #gtrês #gcombates #gterão #g1 #gPV ]",
-      " #rdamage"
+      " #rdano",
+      "[ #gGanhe #guma #gCarta #gIncolor #gIncomum #gAleatória ]",
+      "#gGanhe #g2 #gCartas #gIncolores #gAleatórias ]"
     ],
     "UNIQUE_REWARDS": [
       "[ #rPerca #rsua #rRelíquia #rinicial #gGanhe #guma #gRelíquia #gde #gchefe]"
@@ -160,4 +173,12 @@
       "Uma caçadora mortal das terras nebulosas. NL Elimina adversários com adagas e venenos."
     ]
   },
+  "PostCreditsNeow": {
+    "NAMES": [],
+    "TEXT": [
+      "E... agora..? NL ..Está... feito....?",
+      "...O Pináculo adormece.....",
+      "..assim como...... devo... NL ....eu......"
+    ]
+  }
 }

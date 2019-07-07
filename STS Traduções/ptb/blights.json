@@ -75,10 +75,8 @@
   "VoidEssence": {
     "NAME": "Essência do Vazio",
     "DESCRIPTION": [
-      "Ganhe 1 a menos [R] no começo de cada turno.",
-      "Ganhe 1 a menos [G] no começo de cada turno.",
-      "Ganhe 1 a menos [B] no começo de cada turno.",
-      " a menos [B] no começo de cada turno."
+      "Ganhe #b",
+      " a menos [E] no começo de cada turno."
     ]
   },
   "GraspOfShadows": {

@@ -1,0 +1,118 @@
+Slay the Spire 1.0: Farewell Early Access
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/2cb9bf66bef72b927c21c57b6a2c4e9e65da5bc9.png[/img]
+Hey everyone,
+
+Slay the Spire is out of Early Access now. Look! A new trailer!
+https://youtu.be/9SZUtyYSOjQ
+[h1]Weekly Updates[/h1]
+With the full release of the game, we'll be taking a break from weekly updates and spend some time to re-prioritize our efforts and coordinate releases onto other platforms. Rest assured, Slay the Spire will be available to as many people as possible!
+
+[h1]Future Content[/h1]
+Yep, more content is coming to Slay the Spire! There are a few more PC-specific features we couldn't squeeze in but that will come as an update later on. Also, more "content" will be coming... No spoilers today.
+
+[h1]What's changed since Early Access?[/h1]
+Slay the Spire was released into Early Access on November 14, 2017. We compiled a list of highlights from all of our weekly patches. It's been a productive year!
+[list]
+[*]A Third Character
+[*]The Final Act
+[*]Ascensions
+[*]Daily Climb
+[*]Custom Mode
+[*]Seeded Runs
+[*]Retratos de Cartas Beta
+[*]Integração de Votos via Twitch
+[*]Cartas Incolores Aprimoráveis
+[*]Modo Rápido
+[*]Slots de Salvar
+[*]Icones de Chefes no Mapa
+[*]Steam Leaderboards
+[*]Steam Workshop Support
+[*]Steam Trading Cards
+[*]Run History
+[*]Card Library Tabs
+[*]Rich Presence Support
+[*]Controller Support
+[*]32-bit Builds
+[*][url=https://store.steampowered.com/app/877620/Slay_the_Spire__Soundtrack/?snr=1_5_9__405]Official Soundtrack[/url]
+[/list]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/893f013331e8207ef139ba783bd89d9c3a81434f.png[/img]
+[i]An art update that was done on the Red Masked Bandits[/i]
+
+[h1]Content added during Early Access[/h1]
+Lots of little things were changed to ensure that each run felt fair, each card has its purpose, and there was the right amount of variety to force interesting decisions. We read through more than 17,000 suggestions, bugs, and ideas during development!
+[list]
+[*]0 -> 15 Additional Languages (Community translated!)
+[*]189 -> 283 Cards
+[*]109 -> 161 Relics
+[*]40 -> 52 Events
+[*]10 -> 28 Potions
+[*]54 -> 64 Enemies
+[*]1,300+ issues were fixed
+[*]500+ gameplay balance and tweaks were made
+[*]500+ UI or VFX were created, modified, or overhauled
+[*]50+ SFX were added or modified
+[/list]
+
+[h1]A Big Thank You[/h1]
+This journey in Early Access has been tremendously gratifying for us and we would like to thank everyone who helped us in getting Slay the Spire where it is today.
+
+Slay the Spire was developed a little over 3 years. The first 2 years through a tiny and private internal test group and of course publicly on Steam in the last year. The constant support in both private and public testing fueled us to work hard and we hope that anyone who plays the game before and after the release can see all the work that we and various contributors poured into the game.
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/8365d0caa1fc727afb0d098bcc0fd53c7c28e4be.gif[/img]
+[i]Early Prototype footage from August 25, 2015[/i]
+
+For all of the people who have written reviews, found issues diligently, sent us e-mails of support, retweeted or liked us, modded before and after it was officially supported, made top notch memes, praised and/or criticized us in articles, graced us with beautiful beta art, streamed, created YouTube content, and helped us make connections with various people I say "Thank You" and apologize if anybody was missed.
+
+[h1]Community Fan Art[/h1]
+Is it Fan Art or Fanart? We won't be posting these for a while without weekly patches :(. It has been motivating to see these each week and it made our weekly patches so colorful!
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/221a3788c3da3d006b508d90cf3331c182bcd8c1.jpg[/img]
+[i]Ironclad Portrait by [url=https://twitter.com/MoronisMcDude]@MoronisMcDude[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/70bd915b49cfd468814bf7c8da618afc049d8ed6.jpg[/img]
+[i]Ironclad being Exhausted by [url=https://www.reddit.com/user/dragonclaude]u/Dragonclaude[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/7348f4992dfa7895e4ad16de20fcf3e02e766ee6.jpg[/img]
+[i]Doom and Gloom by [url=https://www.reddit.com/user/Ziggymcfly]u/Ziggymcfly[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/2645df82bc21a1866eee9910b826e637670b34f0.jpg[/img]
+[i]The Defect by [url=https://twitter.com/nicxanbrooks/status/1067333122759495681]@nicxanbrooks[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/72bcbca8892d54f4bee62fa52ded10fbb31ef977.jpg[/img]
+[i]The Chosen by [url=https://www.reddit.com/user/Cweeperz]u/Cweeperz[/url][/i]
+
+[h1]Patch Notes[/h1]
+
+[h1]Balance[/h1]
+[list]
+[*]Colossuem Nob fight ordering swapped so that the Nob can apply Vulnerable.
+[/list]
+
+[h1]UI and Effects[/h1]
+[list]
+[*]Early Access and Beta popups removed from the game.
+[*]EARLY_ACCESS -> V1.0 (Version 1.0) for version number string.
+[*]Increasing scroll bounds by 150px in stats screen for the bottom.
+[*]Main Menu items appear 0.25s faster (reducing wait).
+[*]The post-credits Neow cutscene can now be sped up if you click 5 times during the cutscene.
+[*]Swift Strike's VFX is now a blunt VFX rather than slice VFX.
+[/list]
+
+[h1]Bug Fixes[/h1]
+[list]
+[*]Fixing a rare crash that happens under unknown circumstances in the relic view screen.
+[*]Adding safety logic to prevent hand size from going over >10 in rare cases.
+[*]Fixed issue where Prismatic Shard can return cards which were not yet unlocked.
+[*]Fixed issue where upon launching the game, the next unlock level's content was available for all characters.
+[*]Fixing rare crash on startup caused by modified save files.
+[*]Fixing rare crash when using controllers on death and victory screens.
+[*]Obtaining keys are now faster so they can't fail to be obtained if the players leaves very quickly.
+[*]Preventing a rare act transition crash most likely linked to old saves.
+[/list]
+
+[h1]Localization[/h1]
+[list]
+[*]Updates for POL, PTB, SPA.
+[/list]
