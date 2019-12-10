@@ -650,9 +650,9 @@
     "NAME": "Armadura Chapeada",
     "DESCRIPTIONS": [
       "No fim do seu turno, ganhe #b",
-      " de #yProteção. Receber dano reduz #yArmadura #yChapeada em #b1.",
+      " de #yProteção. Perder vida reduz #yArmadura #yChapeada em #b1.",
       "No fim do turno, ganha #b",
-      " de #yProteção. Receber dano reduz #yArmadura #yChapeada em #b1."
+      " de #yProteção. Perder vida reduz #yArmadura #yChapeada em #b1."
     ]
   },
   "Poison": {

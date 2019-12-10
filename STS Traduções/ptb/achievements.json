@@ -45,7 +45,8 @@
       "Rubi+",
       "Esmeralda+",
       "Safira+",
-      "The End?"
+      "The End?",
+      "O Eterno"
     ],
     "TEXT": [
       "Vença uma batalha com 1 PV restante.",
@@ -92,7 +93,8 @@
       "Complete o Final com o Rígido.",
       "Complete o Final com a Sorrateira.",
       "Complete o Final com o Defeituoso.",
-      "Complete o Final com o Rígido, Sorrateira e Defeituoso."
+      "Complete o Final com o Rígido, Sorrateira e Defeituoso.",
+      "Ganhe todas os outras conquistas."
     ]
   },
   "CharStat": {
@@ -135,5 +137,13 @@
     "TEXT": [
       "Voltar"
     ]
-  }
+  },
+  "PS4Trophy": {
+    "NAMES": [
+      "O Eterno"
+    ],
+    "TEXT": [
+      "Ganhe todos os outros Troféus."
+		]
+	}
 }

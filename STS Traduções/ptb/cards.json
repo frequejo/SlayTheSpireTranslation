@@ -133,7 +133,7 @@
     "UPGRADE_DESCRIPTION": "Aplique !M! de Fraqueza a TODOS os inimigos."
   },
   "Blizzard": {
-    "DESCRIPTION": "Cause dano igual a !M! vezes o número de Orbes de Gelo canalizados neste combate para TODOS os inimigos.",
+    "DESCRIPTION": "Cause dano igual a !M! vezes os Orbes de Gelo canalizados neste combate a TODOS os inimigos.",
     "EXTENDED_DESCRIPTION": [
       " Gelo.",
       " NL Voce canalizou "
@@ -182,7 +182,7 @@
     "UPGRADE_DESCRIPTION": "Previna as próximas !M! vezes que voce perderia PV."
   },
   "Bullet Time": {
-    "DESCRIPTION": "Você não pode comprar mais cartas neste turno. Reduz o custo de todas as cartas na sua mão para 0 neste turno.",
+    "DESCRIPTION": "Você não pode comprar cartas neste turno. Reduza o custo das cartas na sua mão a 0 neste turno.",
     "NAME": "Câmera Lenta"
   },
   "Burn": {
@@ -237,7 +237,7 @@
     "NAME": "Estrangular"
   },
   "Chrysalis": {
-    "DESCRIPTION": "Embaralhe !M! Técnicas Aleatórias na sua pilha de compra. Elas custam 0 neste combate. NL Exaurir.",
+    "DESCRIPTION": "Embaralhe !M! Técnicas Aleatórias na sua pilha de compra. Elas custam 0 neste combate. Exaurir.",
     "NAME": "Crisálida"
   },
   "Clash": {
@@ -298,7 +298,7 @@
     "NAME": "Sobretensão de Núcleo"
   },
   "Corpse Explosion": {
-    "DESCRIPTION": "Aplique !M! Veneno. Quando o inimigo morrer, dê dano igual ao seu PV Máximo para TODOS os inimigos .",
+    "DESCRIPTION": "Aplique !M! Veneno. Quando o alvo morrer, cause seu PV Máximo em dano a TODOS os inimigos.",
     "EXTENDED_DESCRIPTION": [
       "deprecated"
     ],
@@ -392,7 +392,7 @@
     "NAME": "Desarmar"
   },
   "Discovery": {
-    "DESCRIPTION": "Escolha 1 de 3 cartas aleatórias para adicionar à sua mão. Ela custa 0 neste turno. NL Exaurir.",
+    "DESCRIPTION": "Escolha 1 de 3 cartas aleatórias e adicione-a a sua mão. Ela custa 0 neste turno. NL Exaurir.",
     "NAME": "Descoberta",
     "UPGRADE_DESCRIPTION": "Escolha 1 de 3 cartas aleatórias para adicionar à sua mão. Ela custa 0 neste turno."
   },
@@ -482,7 +482,7 @@
     "NAME": "Plano de Fuga"
   },
   "Eviscerate": {
-    "DESCRIPTION": "Custa 1 a menos de [G] NL para cada carta descartada neste turno. NL Cause !D! de dano 3 vezes.",
+    "DESCRIPTION": "Custa 1 [G] a menos para cada carta descartada neste turno. Cause !D! de dano 3 vezes.",
     "NAME": "Eviscerar"
   },
   "Evolve": {
@@ -499,7 +499,7 @@
     "NAME": "Perícia"
   },
   "Feed": {
-    "DESCRIPTION": "Cause !D! de dano. NL Se isso matar um inimigo não lacaio, aumente o seu PV máximo em !M!. Exaurir.",
+    "DESCRIPTION": "Cause !D! de dano. Se isto matar um inimigo não lacaio, aumente seu PV máximo em !M!. Exaurir.",
     "NAME": "Comer"
   },
   "Feel No Pain": {
@@ -769,7 +769,7 @@
     "NAME": "Mestre da Estratégia"
   },
   "Masterful Stab": {
-    "DESCRIPTION": "Custa 1 [G] a mais para NL cada vez que você perder vida neste combate. NL Cause !D! de dano.",
+    "DESCRIPTION": "Custa 1 [G] a mais para NL cada vez que você perder PV neste combate. NL Cause !D! de dano.",
     "NAME": "Punhalada Magistral",
     "UPGRADE_DESCRIPTION": ""
   },
@@ -786,7 +786,7 @@
     "NAME": "Metalizar"
   },
   "Metamorphosis": {
-    "DESCRIPTION": "Embaralhe !M! Ataques aleatórios na sua pilha de compra. Eles custam 0 neste combate. NL Exaurir.",
+    "DESCRIPTION": "Embaralhe !M! Ataques Aleatórios na sua pilha de compra. Eles custam 0 neste combate. Exaurir.",
     "NAME": "Metamorfose"
   },
   "Meteor Strike": {
@@ -987,7 +987,7 @@
     "NAME": "Rasgar e estraçalhar"
   },
   "RitualDagger": {
-    "DESCRIPTION": "Cause !D! de dano. Se isto matar um inimigo, permanentemente aumente o dano desta carta por !M!. Exaurir.",
+    "DESCRIPTION": "Cause !D! de dano. NL Se isto matar um inimigo, aumente o dano em !M! permanentemente. Exaurir.",
     "NAME": "Adaga Ritualística"
   },
   "Rupture": {
@@ -1007,7 +1007,7 @@
     "NAME": "Pancada Cauterizante"
   },
   "Second Wind": {
-    "DESCRIPTION": "Exaura todas as cartas que não sejam de Ataque em sua mão. NL Ganhe !B! de Proteção para cada carta exaurida.",
+    "DESCRIPTION": "Exaura todas as cartas que não de Ataque em sua mão. Ganhe !B! de Proteção para cada carta exaurida.",
     "NAME": "Fôlego Extra"
   },
   "Secret Technique": {
@@ -1097,9 +1097,9 @@
     "UPGRADE_DESCRIPTION": "Ganhe Proteção igual ao número de cartas na sua pilha de descarte +3."
   },
   "Static Discharge": {
-    "DESCRIPTION": "Sempre que voce receber dano, canalize !M! Relâmpago.",
+    "DESCRIPTION": "Sempre que voce perder PV em ataques inimigos, canalize !M! Relâmpago.",
     "NAME": "Descarga Estática",
-    "UPGRADE_DESCRIPTION": "Sempre que voce receber dano, canalize !M! Relâmpagos."
+    "UPGRADE_DESCRIPTION": "Sempre que voce perder PV em ataques inimigos, canalize !M! Relâmpagos."
   },
   "Steam": {
     "DESCRIPTION": "Ganhe !B! Proteção. Reduza a Proteção desta carta em 1 neste combate.",

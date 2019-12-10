@@ -244,7 +244,7 @@
     ],
     "OPTIONS": [
       "[Accept] #gReceive #g5 Apparition. #rLose #r",
-      "% #rMax #rHP.",
+      " #rMax #rHP.",
       "[Refuse]",
       "[Accept] #gReceive #g3 Apparition. #rLose #r",
       "",
@@ -536,11 +536,11 @@
       "NL You ready your blade...",
       "NL You prepare your daggers...",
       "NL You charge your core to its maximum...",
-	  "You ask yourself, ~\"Have~ ~I~ ~been~ ~here~ ~before?\"~",
-	  " NL The heart pulses louder and louder as your #p~consciousness~ #p~begins~ #p~to~ #p~fade...~",
-	  " NL A sudden burst of #y@energy@ emanates from inside you, #b@jolting@ you awake.",
-	  " NL The heart #gretreats upwards! A large door is revealed in its place."
-	  
+      "You ask yourself, ~\"Have~ ~I~ ~been~ ~here~ ~before?\"~",
+      " NL The heart pulses louder and louder as your #p~consciousness~ #p~begins~ #p~to~ #p~fade...~",
+      " NL A sudden burst of #y@energy@ emanates from inside you, #b@jolting@ you awake.",
+      " NL The heart #gretreats upwards! A large door is revealed in its place."
+
     ],
     "OPTIONS": [
       "[Continue]",
@@ -725,7 +725,7 @@
     ],
     "OPTIONS": [
       "[Accept] #gRemove #gall Strikes. #gReceive #g5 Bites. #rLose #r",
-      "% #rMax #rHP.",
+      " #rMax #rHP.",
       "[Refuse]",
       "[Lose ",
       "] #gRemove #gall Strikes. #gReceive #g5 Bites.",
@@ -801,7 +801,7 @@
       "Everything makes sense now. NL The lack of memories, the ascent, the #yAncient #yOne. NL NL This is the way it always was. NL This is the way it always will be. NL All will be forgotten again soon..."
     ],
     "OPTIONS": [
-      "[I am War] #rFight #ra #rBoss #rfrom #rAct #r1. #gObtain #ga #gRare #gRelic.",  
+      "[I am War] #rFight #ra #rBoss #rfrom #rAct #r1. #gObtain #ga #gRare #gRelic.",
       "[I am Rich] #gGain #g999 #gGold. #rCursed #r- #r2 #rNormality.",
       "[I am Healthy] #gHeal #gto #gfull #gHP. #rCursed #r- #rDoubt.",
       "[I am Awake] #gUpgrade #gall #gCards. #rYou #rcan #rno #rlonger #rheal.",

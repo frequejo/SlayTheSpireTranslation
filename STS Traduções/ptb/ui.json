@@ -106,26 +106,26 @@
   },
   "AscensionModeDescriptions": {
     "TEXT": [
-      "Elites aparecerão com maior frequência.",
-      "Inimigos normais são mais mortais.",
-      "Elites são mais mortais.",
-      "Chefes são mais mortais.",
-      "Cure menos depois de batalhas de Chefe.",
-      "Comece cada jornada danificado.",
-      "Inimigos normais são mais resistentes.",
-      "Elites são mais resistentes.",
-      "Chefes são mais resistentes.",
-      "Comece cada jornada amaldiçoado(a).",
-      "Menos espaço para Poções.",
-      "Cartas aprimoradas aparecem menos.",
-      "Chefes pobres.",
-      "PV Máximo menor.",
-      "Eventos Desfavoráveis.",
-      "Lojas são mais caras.",
-      "Inimigos normais tem ataques e técnicas mais desafiadores.",
-      "Elites tem ataques e técnicas mais desafiadores.",
-      "Chefes tem ataques e técnicas mais desafiadores.",
-      "(Nivel Máximo) Chefes Duplos"
+      "1. Elites aparecerão com maior frequência.",
+      "2. Inimigos normais são mais mortais.",
+      "3. Elites são mais mortais.",
+      "4. Chefes são mais mortais.",
+      "5. Cure menos depois de batalhas de Chefe.",
+      "6. Comece cada jornada danificado.",
+      "7. Inimigos normais são mais resistentes.",
+      "8. Elites são mais resistentes.",
+      "9. Chefes são mais resistentes.",
+      "10. Comece cada jornada amaldiçoado(a).",
+      "11. Menos espaço para Poções.",
+      "12. Cartas aprimoradas aparecem menos.",
+      "13. Chefes pobres.",
+      "14. PV Máximo menor.",
+      "15. Eventos Desfavoráveis.",
+      "16. Lojas são mais caras.",
+      "17. Inimigos normais tem ataques e técnicas mais desafiadores.",
+      "18. Elites tem ataques e técnicas mais desafiadores.",
+      "19. Chefes tem ataques e técnicas mais desafiadores.",
+      "20. (Nivel Máximo) Chefes Duplos"
     ]
   },
   "AscensionTextEffect": {
@@ -152,6 +152,13 @@
       " turno"
     ]
   },
+	"BetterToHandAction": {
+    "TEXT": [
+      "Escolha uma Carta para colocar na Sua Mão.",
+      "Escolha ",
+      " Cartas para colocar na Sua Mão."
+		]
+	},
   "BossChest": {
     "TEXT": [
       "Prosseguir"
@@ -211,7 +218,8 @@
       "Tipo",
       "A-Z",
       "Custo",
-      "Pular para:"
+      "Pular para:",
+			"Obtidos"
     ]
   },
   "CardLibraryScreen": {
@@ -332,7 +340,9 @@
       "Modificadores: ",
       "Tabelas de Classificação",
       "*Conquitas estão desabilitadas para a Escalada Diária.",
-      "  [OFFLINE MODE]"
+      "  [OFFLINE MODE]",
+      "MMMM dd, yyyy",
+      "*Troféus são desabilitados em Escaladas Diárias."
     ]
   },
   "DeathScreen": {
@@ -638,7 +648,8 @@
       "Direita (Alt)*",
       "Cima",
       "Baixo",
-      "Controle Habilitado"
+      "Controle Habilitado",
+      "Modo Touchscreen"
     ]
   },
   "LanguageDropdown": {
@@ -699,7 +710,7 @@
       "Nome",
       "Pontuação",
       "Recuperando Dados...",
-      "Tabelas de Classificação (OBSERVAÇÃO: Será resetada semanalmente)",
+      "Classificação",
       "Não Conectado ao Steam",
       "Nenhuma Pontuação Disponível \n Vá Matar o Pináculo!"
     ]
@@ -810,7 +821,9 @@
       "Jogue uma escalada diária para liberar esse modo de jogo",
       "Essa funcionalidade ainda não está disponível.",
       "Personalizada",
-      "Personalize sua jornada com modificadores únicos."
+      "Personalize sua jornada com modificadores únicos.",
+      "Mude seus controles.",
+      "Mude suas preferências de gráficos, audio, e jogabilidade."
     ]
   },
   "MerchantImageTextNotInGame": {
@@ -820,6 +833,17 @@
       "Não está a Venda",
       "Vendido",
       "Ah não!"
+    ]
+  },
+	"MiscConsoleStrings": {
+    "TEXT": [
+      "Pressione ",
+      " para Começar",
+      "Perfil Switch",
+      "Area de Display",
+      "Uma mudança de login ocorreu. Por favor, conecte-se de volta ou saia para a tela principal.",
+      "Conectar",
+      "Sair"
     ]
   },
   "OpeningAction": {
@@ -850,7 +874,11 @@
       "Modo de Arte para Playtester",
       "Mostrar Teclas de Seleção Rápida de Carta",
       "Configurações de entrada",
-      "Desabilitar Efeitos de Partículas"
+      "Desabilitar Efeitos de Partículas",
+      "Resolução:",
+      "Resolução: NL Monitor Tela cheia:",
+      "Muda qual monitor é utilizado quando em Tela cheia.",
+      "Pressionar para confirmar"
     ]
   },
   "PatchNotesScreen": {
@@ -1084,7 +1112,8 @@
       "Apenas Ascensão",
       "Apenas Desafio Diário",
       "Semente: %s",
-      "Semente Personalizada: %s"
+      "Semente Personalizada: %s",
+      "M/d/yyyy, h:mm a"
     ]
   },
   "SeedPanel": {
@@ -1093,7 +1122,8 @@
       "Insira uma nova Seed",
       "Confirmar",
       "Cancelar",
-      "*Conquistas e Classificação serão desabilitados se uma semente personalidade é utilizada. "
+      "*Conquistas e Classificação serão desabilitados se uma semente customizada é utilizada. ",
+      "*Troféus e Classificações são desabilitados se uma semente customizada é utilizada."
     ]
   },
   "SettingsScreen": {
@@ -1261,7 +1291,8 @@
       "Modo Ascensão",
       "Modificadores",
       "Semente",
-      "Definir Semente"
+      "Definir Semente",
+      "Troféus e Classificações estão desativadas."
     ]
   },
   "SaveSlot": {
@@ -1312,7 +1343,8 @@
       "Daily - Floor %s",
       "Custom - Floor %s",
       " - Floor %s",
-      "Main Menu"
+      "Main Menu",
+      " (A%s)"
     ]
   }
 }

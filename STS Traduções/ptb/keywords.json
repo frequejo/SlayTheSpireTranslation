@@ -224,6 +224,7 @@
       "NAMES": [
         "canalizar",
         "canalizado",
+        "canalizados",
         "canalize"
       ],
       "DESCRIPTION": "Canalizar um Orbe coloca-o em seu primeiro slot vazio. Se voce não tem slots vazios, o seu primeiro Orbe é automaticamente #yEvocado para abrir espaço."
